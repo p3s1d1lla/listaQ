@@ -121,7 +121,7 @@ http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/338
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/339
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 HD
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/340
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="evento 7" tvg-logo="" group-title="Deportes",evento 7
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/341
 #EXTINF:-1 tvg-id="" tvg-name="FOX Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png" group-title="Peliculas",FOX Series HD
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/342
@@ -137,7 +137,7 @@ http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/346
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/347
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Fox-News-logo.png" group-title="Entretenimiento",Fox News
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/348
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports  HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="Deportes",Fox Sports  HD
+#EXTINF:-1 tvg-id="" tvg-name="evento 6" tvg-logo="" group-title="Deportes",evento 6
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/349
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas",Golden
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/350
@@ -197,12 +197,14 @@ http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/377
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/378
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://e7.pngegg.com/pngimages/225/723/png-clipart-nickelodeon-television-channel-logo-satellite-television-others-miscellaneous-television.png" group-title="Infantiles",Nickelodeon
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/379
-#EXTINF:-1 tvg-id="" tvg-name="PX SPORTS" tvg-logo="http://pxsports.com/wp-content/uploads/2021/01/PX-Sports-Logo-Full-Color-Fondo-Color-2020_PX-Sports-Logo-Original-Fondo-Negro-Copy-e1612556942625.png" group-title="Entretenimiento",PX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="evento 5" tvg-logo="" group-title="Entretenimiento",evento 5
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/380
 #EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="Peliculas",Paramount HD
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/381
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones HD
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/382
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Peliculas",Playboy
+http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/383
 #EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="Entretenimiento",RCN - GUA
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/384
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1200px-RCN_Novelas_logo.svg.png" group-title="Entretenimiento",RCN Novelas
@@ -253,6 +255,8 @@ http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/407
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/408
 #EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="https://spng.pngfind.com/pngs/s/71-717732_logo-univision-univision-logo-png-transparent-png.png" group-title="Entretenimiento",Univision HD
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/409
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://i.pinimg.com/originals/d8/28/a0/d828a08a603d6f218cdb7ef166731606.png" group-title="Adultos",VENUS
+http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/410
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/VH1_Classic_Logo-420x294.png" group-title="Musica",VH1 Classic
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/411
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="Musica",VH1 HD
@@ -269,17 +273,17 @@ http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/416
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/417
 #EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/418
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="Deportes",BEIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="evento 4" tvg-logo="" group-title="Deportes",evento 4
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/419
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://a5.mzstatic.com/us/r1000/070/Purple/bf/45/c9/mzl.dvjbfxtp.png" group-title="Entretenimiento",Telemundo Miami
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/420
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png" group-title="Deportes",TUDN
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/421
-#EXTINF:-1 tvg-id="" tvg-name="sky SPORTS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png" group-title="Deportes",sky SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="evento 3" tvg-logo="" group-title="Deportes",evento 3
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/422
-#EXTINF:-1 tvg-id="" tvg-name="Sports HD" tvg-logo="https://www.pngjoy.com/pngm/529/19375396_sports-logo-sports-logo-png-transparent-hd-png.png" group-title="Deportes",Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="evento 1" tvg-logo="" group-title="Deportes",evento 1
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/423
-#EXTINF:-1 tvg-id="" tvg-name="bein SPORTR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Deportes",bein SPORTR 1
+#EXTINF:-1 tvg-id="" tvg-name="evento 2" tvg-logo="" group-title="Deportes",evento 2
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/424
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://cdn.canal6.com.hn/2021/01/unnamed-1.png" group-title="Locales",Canal 6
 http://192.168.40.2:25461/monitoreo/KzeFhyaJYF/425
