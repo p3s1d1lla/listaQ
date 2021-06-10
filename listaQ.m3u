@@ -293,3 +293,5 @@ http://192.168.40.2:25461/SQ/12345/426
 http://192.168.40.2:25461/SQ/12345/427
 #EXTINF:-1 tvg-id="" tvg-name="Vica tv vtv" tvg-logo="" group-title="Locales",Vica tv vtv
 http://192.168.40.2:25461/SQ/12345/430
+#EXTINF:-1 tvg-id="" tvg-name="canal 5" tvg-logo="" group-title="Locales",canal 5
+http://192.168.40.2:25461/SQ/12345/431
