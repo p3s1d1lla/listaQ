@@ -203,7 +203,7 @@ http://192.168.40.2:25461/SQ/12345/380
 http://192.168.40.2:25461/SQ/12345/381
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones HD
 http://192.168.40.2:25461/SQ/12345/382
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Peliculas",Playboy
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Adultos",Playboy
 http://192.168.40.2:25461/SQ/12345/383
 #EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="Entretenimiento",RCN - GUA
 http://192.168.40.2:25461/SQ/12345/384
@@ -291,3 +291,5 @@ http://192.168.40.2:25461/SQ/12345/425
 http://192.168.40.2:25461/SQ/12345/426
 #EXTINF:-1 tvg-id="" tvg-name="Une TV" tvg-logo="https://1.bp.blogspot.com/-mprksXCLINg/XTGuJErGVHI/AAAAAAAAIBA/OoA1vHRMrV4gSFOIQIygdj-gpg4d5TrgQCLcBGAs/s210/Canal%2BUne%2BTV.png" group-title="Locales",Une TV
 http://192.168.40.2:25461/SQ/12345/427
+#EXTINF:-1 tvg-id="" tvg-name="Vica tv vtv" tvg-logo="" group-title="Locales",Vica tv vtv
+http://192.168.40.2:25461/SQ/12345/430
