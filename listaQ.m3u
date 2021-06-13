@@ -287,7 +287,3 @@ http://192.168.40.2:25461/SQ/12345/442
 http://192.168.40.2:25461/SQ/12345/443
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="Peliculas",De Pelicula
 http://192.168.40.2:25461/SQ/12345/444
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Adultos",Playboy
-http://192.168.40.2:25461/SQ/12345/383
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://i.pinimg.com/originals/d8/28/a0/d828a08a603d6f218cdb7ef166731606.png" group-title="Adultos",VENUS
-http://192.168.40.2:25461/SQ/12345/410
