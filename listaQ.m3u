@@ -287,3 +287,17 @@ http://192.168.40.2:25461/SQ/12345/442
 http://192.168.40.2:25461/SQ/12345/443
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="Peliculas",De Pelicula
 http://192.168.40.2:25461/SQ/12345/444
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Locales",Canal 5 HN
+http://192.168.40.2:25461/SQ/12345/445
+#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="" group-title="Locales",TSI
+http://192.168.40.2:25461/SQ/12345/446
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
+http://192.168.40.2:25461/SQ/12345/447
+#EXTINF:-1 tvg-id="" tvg-name="VTV HN" tvg-logo="" group-title="Locales",VTV HN
+http://192.168.40.2:25461/SQ/12345/448
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena 7/4" tvg-logo="" group-title="Locales",Telecadena 7/4
+http://192.168.40.2:25461/SQ/12345/449
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="" group-title="Locales",Canal 11
+http://192.168.40.2:25461/SQ/12345/450
+#EXTINF:-1 tvg-id="" tvg-name="Eventos HN" tvg-logo="" group-title="Locales",Eventos HN
+http://192.168.40.2:25461/SQ/12345/451
