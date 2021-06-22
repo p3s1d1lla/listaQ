@@ -299,3 +299,5 @@ http://192.168.40.2:25461/SQ/12345/449
 http://192.168.40.2:25461/SQ/12345/450
 #EXTINF:-1 tvg-id="" tvg-name="Eventos HN" tvg-logo="" group-title="Locales",Eventos HN
 http://192.168.40.2:25461/SQ/12345/451
+#EXTINF:-1 tvg-id="" tvg-name="Distrito comedia 2" tvg-logo="" group-title="Entretenimiento",Distrito comedia 2
+http://192.168.40.2:25461/SQ/12345/452
