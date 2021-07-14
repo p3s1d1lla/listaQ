@@ -281,8 +281,6 @@ http://192.168.40.2:25461/SQ/12345/440
 http://192.168.40.2:25461/SQ/12345/441
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="" group-title="Locales",Canal 6
 http://192.168.40.2:25461/SQ/12345/442
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 5" tvg-logo="" group-title="Deportes",Eventos 5
-http://192.168.40.2:25461/SQ/12345/443
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="Peliculas",De Pelicula
 http://192.168.40.2:25461/SQ/12345/444
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 HN" tvg-logo="" group-title="Locales",Canal 5 HN
@@ -301,3 +299,5 @@ http://192.168.40.2:25461/SQ/12345/450
 http://192.168.40.2:25461/SQ/12345/451
 #EXTINF:-1 tvg-id="" tvg-name="Distrito comedia 2" tvg-logo="" group-title="Entretenimiento",Distrito comedia 2
 http://192.168.40.2:25461/SQ/12345/452
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 5" tvg-logo="" group-title="Deportes",Eventos 5
+http://192.168.40.2:25461/SQ/12345/453
