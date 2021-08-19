@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Peliculas",Playboy
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://comteco.com.bo/img/upload/canales/playboy.png" group-title="Adultos",Playboy
 http://10.12.94.2:25461/Adultos/12345/383
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://i.pinimg.com/originals/d8/28/a0/d828a08a603d6f218cdb7ef166731606.png" group-title="Peliculas",VENUS
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://i.pinimg.com/originals/d8/28/a0/d828a08a603d6f218cdb7ef166731606.png" group-title="Adultos",VENUS
 http://10.12.94.2:25461/Adultos/12345/410
 #EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="https://pbs.twimg.com/profile_images/1344654612205338625/pz4d3a8E.png" group-title="Entretenimiento",6 - Repretel
 http://10.12.94.2:25461/Adultos/12345/277
