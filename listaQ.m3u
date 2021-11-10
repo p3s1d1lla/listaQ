@@ -135,8 +135,6 @@ http://10.12.94.2:25461/SQ/12345/345
 http://10.12.94.2:25461/SQ/12345/346
 #EXTINF:-1 tvg-id="" tvg-name="Fox Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/FOX-Classic-Logo-01.png" group-title="Peliculas",Fox Classic HD
 http://10.12.94.2:25461/SQ/12345/347
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Fox-News-logo.png" group-title="Entretenimiento",Fox News
-http://10.12.94.2:25461/SQ/12345/348
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 6" tvg-logo="" group-title="Deportes",Eventos 6
 http://10.12.94.2:25461/SQ/12345/349
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas",Golden
@@ -261,9 +259,9 @@ http://10.12.94.2:25461/SQ/12345/413
 http://10.12.94.2:25461/SQ/12345/414
 #EXTINF:-1 tvg-id="" tvg-name="Ebenezer " tvg-logo="https://colegioebenezer.edu.co/wp-content/uploads/2016/09/LOGO-EBENEZER-final-20141.png" group-title="Locales",Ebenezer 
 http://10.12.94.2:25461/SQ/12345/417
-#EXTINF:-1 tvg-id="" tvg-name="QHubo TV" tvg-logo="https://qhubotv.com/wp-content/uploads/2020/02/qhubologo190.png" group-title="Locales",QHubo TV
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11  HN" tvg-logo="" group-title="Locales",Canal 11  HN
 http://10.12.94.2:25461/SQ/12345/426
-#EXTINF:-1 tvg-id="" tvg-name="Une TV" tvg-logo="https://1.bp.blogspot.com/-mprksXCLINg/XTGuJErGVHI/AAAAAAAAIBA/OoA1vHRMrV4gSFOIQIygdj-gpg4d5TrgQCLcBGAs/s210/Canal%2BUne%2BTV.png" group-title="Locales",Une TV
+#EXTINF:-1 tvg-id="" tvg-name="Teleprogreso" tvg-logo="" group-title="Locales",Teleprogreso
 http://10.12.94.2:25461/SQ/12345/427
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 1" tvg-logo="" group-title="Deportes",Eventos 1
 http://10.12.94.2:25461/SQ/12345/435
@@ -287,13 +285,13 @@ http://10.12.94.2:25461/SQ/12345/444
 http://10.12.94.2:25461/SQ/12345/445
 #EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="" group-title="Locales",TSI
 http://10.12.94.2:25461/SQ/12345/446
-#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="https://play-lh.googleusercontent.com/TTgK2pzC3s6GFvXWXFGYzXqr4oaMYb2Xmjz5GNJqakXL141-_fPIslg9x4Sg1A-M6kU" group-title="Locales",HCH
 http://10.12.94.2:25461/SQ/12345/447
-#EXTINF:-1 tvg-id="" tvg-name="VTV HN" tvg-logo="" group-title="Locales",VTV HN
+#EXTINF:-1 tvg-id="" tvg-name="TDTV  PLUS HN" tvg-logo="" group-title="Locales",TDTV  PLUS HN
 http://10.12.94.2:25461/SQ/12345/448
 #EXTINF:-1 tvg-id="" tvg-name="Telecadena 7/4" tvg-logo="" group-title="Locales",Telecadena 7/4
 http://10.12.94.2:25461/SQ/12345/449
-#EXTINF:-1 tvg-id="" tvg-name="Eventos HN" tvg-logo="" group-title="Locales",Eventos HN
+#EXTINF:-1 tvg-id="" tvg-name="TDTV HN" tvg-logo="" group-title="Locales",TDTV HN
 http://10.12.94.2:25461/SQ/12345/451
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 5" tvg-logo="" group-title="Deportes",Eventos 5
 http://10.12.94.2:25461/SQ/12345/453
