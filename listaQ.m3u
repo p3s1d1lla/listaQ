@@ -41,20 +41,12 @@ http://10.12.94.2:25461/SQ/12345/295
 http://10.12.94.2:25461/SQ/12345/296
 #EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Entretenimiento",CNNE
 http://10.12.94.2:25461/SQ/12345/297
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_concert-channel_m.png" group-title="Entretenimiento",CONCERT CHANNEL
-http://10.12.94.2:25461/SQ/12345/298
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - GUA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-3-nacional_m.png" group-title="Entretenimiento",Canal 3 - GUA
-http://10.12.94.2:25461/SQ/12345/299
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 - PAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1280px-Canal_4_TCS.png" group-title="Entretenimiento",Canal 4 - PAN
 http://10.12.94.2:25461/SQ/12345/301
-#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua - GUA" tvg-logo="https://canalantigua.tv/wp-content/uploads/2021/02/canal-antigua-logo-1024x1024-1.png" group-title="Entretenimiento",Canal Antigua - GUA
-http://10.12.94.2:25461/SQ/12345/303
 #EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://i.pinimg.com/originals/8e/c1/12/8ec1121b2039c6e2a9b77af104818d54.png" group-title="Peliculas",Cine Latino
 http://10.12.94.2:25461/SQ/12345/305
 #EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas",CineMax
 http://10.12.94.2:25461/SQ/12345/306
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="https://e7.pngegg.com/pngimages/724/805/png-clipart-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo.png" group-title="Peliculas",Cinema Dinamita
-http://10.12.94.2:25461/SQ/12345/307
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="Peliculas",Comedy Central HD
 http://10.12.94.2:25461/SQ/12345/308
 #EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="Peliculas",DHE HD
@@ -141,8 +133,6 @@ http://10.12.94.2:25461/SQ/12345/349
 http://10.12.94.2:25461/SQ/12345/350
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="https://www.seekpng.com/png/detail/358-3584680_golf-channel-logo-golf-channel-logo-png.png" group-title="Deportes",Golf Channel HD
 http://10.12.94.2:25461/SQ/12345/351
-#EXTINF:-1 tvg-id="" tvg-name="Guatevision - GUA" tvg-logo="https://cdn.mitvstatic.com/channels/hn_guatevision_m.png" group-title="Entretenimiento",Guatevision - GUA
-http://10.12.94.2:25461/SQ/12345/352
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/240px-History2Logo2019.png" group-title="Cultura",H2
 http://10.12.94.2:25461/SQ/12345/353
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" group-title="Peliculas",HBO
@@ -165,8 +155,6 @@ http://10.12.94.2:25461/SQ/12345/362
 http://10.12.94.2:25461/SQ/12345/363
 #EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Cultura",LIFE TIME
 http://10.12.94.2:25461/SQ/12345/364
-#EXTINF:-1 tvg-id="" tvg-name="MASTV" tvg-logo="https://www.hn504.net/img/tv/MasTv.png" group-title="Entretenimiento",MASTV
-http://10.12.94.2:25461/SQ/12345/365
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/2000px-MTV_HD_Logo_2013.svg.png" group-title="Musica",MTV HD
 http://10.12.94.2:25461/SQ/12345/366
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/1223px-MTV_Hits.svg.png" group-title="Musica",MTV Hits
@@ -285,7 +273,7 @@ http://10.12.94.2:25461/SQ/12345/444
 http://10.12.94.2:25461/SQ/12345/445
 #EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="" group-title="Locales",TSI
 http://10.12.94.2:25461/SQ/12345/446
-#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="https://play-lh.googleusercontent.com/TTgK2pzC3s6GFvXWXFGYzXqr4oaMYb2Xmjz5GNJqakXL141-_fPIslg9x4Sg1A-M6kU" group-title="Locales",HCH
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
 http://10.12.94.2:25461/SQ/12345/447
 #EXTINF:-1 tvg-id="" tvg-name="TDTV  PLUS HN" tvg-logo="" group-title="Locales",TDTV  PLUS HN
 http://10.12.94.2:25461/SQ/12345/448
