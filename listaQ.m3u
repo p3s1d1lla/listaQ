@@ -189,6 +189,8 @@ http://10.12.94.2:25461/Clientes/12345/173
 http://10.12.94.2:25461/Clientes/12345/174
 #EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHb3kCvBAdK5OsYXwTpx_f84UFgVZUXuFSA&usqp=CAU" group-title="SPEED TV BASICO",TELENOVELAS
 http://10.12.94.2:25461/Clientes/12345/175
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/97ffb33/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F71%2Fb5%2Fb93e57c9437a97e58145775a548b%2Fgenerico-placeholder-distrito-comedia.png" group-title="SPEED TV BASICO",DISTRITO COMEDIA
+http://10.12.94.2:25461/Clientes/12345/176
 #EXTINF:-1 tvg-id="" tvg-name="A&E  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="SPEED  TV 4K",A&E  4K
 http://10.12.94.2:25461/Clientes/12345/122
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://4.bp.blogspot.com/-Q7cfaXgyF3Q/Ugmw-hPb7BI/AAAAAAAAAAk/hso2_DhjGO0/s1600/Animal_Planet_Europe_2003.png" group-title="SPEED  TV 4K",ANIMAL PLANET 4K
