@@ -1,237 +1,237 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="CULTURA",A&E
-http://10.12.94.2:25461/SQ/12345/1
+http://10.12.94.4:25461/SQ/12345/1
 #EXTINF:-1 tvg-id="" tvg-name="A&E_HD" tvg-logo="" group-title="CULTURA",A&E_HD
-http://10.12.94.2:25461/SQ/12345/2
+http://10.12.94.4:25461/SQ/12345/2
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CULTURA",AMC
-http://10.12.94.2:25461/SQ/12345/3
+http://10.12.94.4:25461/SQ/12345/3
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="CULTURA",Animal Planet
-http://10.12.94.2:25461/SQ/12345/4
+http://10.12.94.4:25461/SQ/12345/4
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="CULTURA",AXN
-http://10.12.94.2:25461/SQ/12345/6
+http://10.12.94.4:25461/SQ/12345/6
 #EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="CULTURA",Azcorazon
-http://10.12.94.2:25461/SQ/12345/7
+http://10.12.94.4:25461/SQ/12345/7
 #EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="DEPORTES",Azmundo
-http://10.12.94.2:25461/SQ/12345/8
+http://10.12.94.4:25461/SQ/12345/8
 #EXTINF:-1 tvg-id="" tvg-name="Baby_TV" tvg-logo="" group-title="INFANTILES",Baby_TV
-http://10.12.94.2:25461/SQ/12345/9
+http://10.12.94.4:25461/SQ/12345/9
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="INFANTILES",Boomerang
-http://10.12.94.2:25461/SQ/12345/10
+http://10.12.94.4:25461/SQ/12345/10
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon_Network" tvg-logo="" group-title="INFANTILES",Cartoon_Network
-http://10.12.94.2:25461/SQ/12345/11
+http://10.12.94.4:25461/SQ/12345/11
 #EXTINF:-1 tvg-id="" tvg-name="Claro_Cinema" tvg-logo="" group-title="PELICULAS",Claro_Cinema
-http://10.12.94.2:25461/SQ/12345/16
+http://10.12.94.4:25461/SQ/12345/16
 #EXTINF:-1 tvg-id="" tvg-name="CCN" tvg-logo="" group-title="CULTURA",CCN
-http://10.12.94.2:25461/SQ/12345/12
+http://10.12.94.4:25461/SQ/12345/12
 #EXTINF:-1 tvg-id="" tvg-name="Cine_Latino" tvg-logo="" group-title="PELICULAS",Cine_Latino
-http://10.12.94.2:25461/SQ/12345/13
+http://10.12.94.4:25461/SQ/12345/13
 #EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="PELICULAS",CineCanal
-http://10.12.94.2:25461/SQ/12345/14
+http://10.12.94.4:25461/SQ/12345/14
 #EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="PELICULAS",CineMax
-http://10.12.94.2:25461/SQ/12345/15
+http://10.12.94.4:25461/SQ/12345/15
 #EXTINF:-1 tvg-id="" tvg-name="CNN_Internacional" tvg-logo="" group-title="CULTURA",CNN_Internacional
-http://10.12.94.2:25461/SQ/12345/17
+http://10.12.94.4:25461/SQ/12345/17
 #EXTINF:-1 tvg-id="" tvg-name="CLARO_SPORTS" tvg-logo="" group-title="DEPORTES",CLARO_SPORTS
-http://10.12.94.2:25461/SQ/12345/18
+http://10.12.94.4:25461/SQ/12345/18
 #EXTINF:-1 tvg-id="" tvg-name="Concert_Channel" tvg-logo="" group-title="CULTURA",Concert_Channel
-http://10.12.94.2:25461/SQ/12345/19
+http://10.12.94.4:25461/SQ/12345/19
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Channel" tvg-logo="" group-title="CULTURA",Discovery_Channel
-http://10.12.94.2:25461/SQ/12345/20
+http://10.12.94.4:25461/SQ/12345/20
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Channel_HD" tvg-logo="" group-title="CULTURA",Discovery_Channel_HD
-http://10.12.94.2:25461/SQ/12345/21
+http://10.12.94.4:25461/SQ/12345/21
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Civilization" tvg-logo="" group-title="CULTURA",Discovery_Civilization
-http://10.12.94.2:25461/SQ/12345/22
+http://10.12.94.4:25461/SQ/12345/22
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Home_&_Health" tvg-logo="" group-title="CULTURA",Discovery_Home_&_Health
-http://10.12.94.2:25461/SQ/12345/23
+http://10.12.94.4:25461/SQ/12345/23
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_ID_HD" tvg-logo="" group-title="CULTURA",Discovery_ID_HD
-http://10.12.94.2:25461/SQ/12345/24
+http://10.12.94.4:25461/SQ/12345/24
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Kids" tvg-logo="" group-title="CULTURA",Discovery_Kids
-http://10.12.94.2:25461/SQ/12345/25
+http://10.12.94.4:25461/SQ/12345/25
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Science" tvg-logo="" group-title="CULTURA",Discovery_Science
-http://10.12.94.2:25461/SQ/12345/26
+http://10.12.94.4:25461/SQ/12345/26
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_THEATHER_HD" tvg-logo="" group-title="CULTURA",DISCOVERY_THEATHER_HD
-http://10.12.94.2:25461/SQ/12345/27
+http://10.12.94.4:25461/SQ/12345/27
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Turbo" tvg-logo="" group-title="INFANTILES",Discovery_Turbo
-http://10.12.94.2:25461/SQ/12345/28
+http://10.12.94.4:25461/SQ/12345/28
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_World_HD" tvg-logo="" group-title="INFANTILES",Discovery_World_HD
-http://10.12.94.2:25461/SQ/12345/29
+http://10.12.94.4:25461/SQ/12345/29
 #EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="INFANTILES",Disney
-http://10.12.94.2:25461/SQ/12345/30
+http://10.12.94.4:25461/SQ/12345/30
 #EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="LOCALES",HCH
-http://10.12.94.2:25461/SQ/12345/31
+http://10.12.94.4:25461/SQ/12345/31
 #EXTINF:-1 tvg-id="" tvg-name="Disney_JR" tvg-logo="" group-title="INFANTILES",Disney_JR
-http://10.12.94.2:25461/SQ/12345/32
+http://10.12.94.4:25461/SQ/12345/32
 #EXTINF:-1 tvg-id="" tvg-name="Disney_XD" tvg-logo="" group-title="INFANTILES",Disney_XD
-http://10.12.94.2:25461/SQ/12345/33
+http://10.12.94.4:25461/SQ/12345/33
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="CULTURA",E!
-http://10.12.94.2:25461/SQ/12345/34
+http://10.12.94.4:25461/SQ/12345/34
 #EXTINF:-1 tvg-id="" tvg-name="E!_Entertairment_HD" tvg-logo="" group-title="CULTURA",E!_Entertairment_HD
-http://10.12.94.2:25461/SQ/12345/35
+http://10.12.94.4:25461/SQ/12345/35
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="CULTURA",ESPN
-http://10.12.94.2:25461/SQ/12345/36
+http://10.12.94.4:25461/SQ/12345/36
 #EXTINF:-1 tvg-id="" tvg-name="ESPN_+" tvg-logo="" group-title="CULTURA",ESPN_+
-http://10.12.94.2:25461/SQ/12345/37
+http://10.12.94.4:25461/SQ/12345/37
 #EXTINF:-1 tvg-id="" tvg-name="ESPN_2_HD" tvg-logo="" group-title="CULTURA",ESPN_2_HD
-http://10.12.94.2:25461/SQ/12345/38
+http://10.12.94.4:25461/SQ/12345/38
 #EXTINF:-1 tvg-id="" tvg-name="ESPN_3" tvg-logo="" group-title="CULTURA",ESPN_3
-http://10.12.94.2:25461/SQ/12345/39
+http://10.12.94.4:25461/SQ/12345/39
 #EXTINF:-1 tvg-id="" tvg-name="ESPN_3_HD" tvg-logo="" group-title="CULTURA",ESPN_3_HD
-http://10.12.94.2:25461/SQ/12345/40
+http://10.12.94.4:25461/SQ/12345/40
 #EXTINF:-1 tvg-id="" tvg-name="ESPN_HD" tvg-logo="" group-title="CULTURA",ESPN_HD
-http://10.12.94.2:25461/SQ/12345/41
+http://10.12.94.4:25461/SQ/12345/41
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="CULTURA",ESPN2
-http://10.12.94.2:25461/SQ/12345/42
+http://10.12.94.4:25461/SQ/12345/42
 #EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="CULTURA",EWTN
-http://10.12.94.2:25461/SQ/12345/43
+http://10.12.94.4:25461/SQ/12345/43
 #EXTINF:-1 tvg-id="" tvg-name="Exa_TV" tvg-logo="" group-title="CULTURA",Exa_TV
-http://10.12.94.2:25461/SQ/12345/44
+http://10.12.94.4:25461/SQ/12345/44
 #EXTINF:-1 tvg-id="" tvg-name="Fox_Sport_3" tvg-logo="" group-title="CULTURA",Fox_Sport_3
-http://10.12.94.2:25461/SQ/12345/45
+http://10.12.94.4:25461/SQ/12345/45
 #EXTINF:-1 tvg-id="" tvg-name="Fox_Sports" tvg-logo="" group-title="CULTURA",Fox_Sports
-http://10.12.94.2:25461/SQ/12345/46
+http://10.12.94.4:25461/SQ/12345/46
 #EXTINF:-1 tvg-id="" tvg-name="FOX_Sports_2" tvg-logo="" group-title="CULTURA",FOX_Sports_2
-http://10.12.94.2:25461/SQ/12345/47
+http://10.12.94.4:25461/SQ/12345/47
 #EXTINF:-1 tvg-id="" tvg-name="FOX_SPORTS_2_HD" tvg-logo="" group-title="CULTURA",FOX_SPORTS_2_HD
-http://10.12.94.2:25461/SQ/12345/48
+http://10.12.94.4:25461/SQ/12345/48
 #EXTINF:-1 tvg-id="" tvg-name="FOX_SPORTS_3_HD" tvg-logo="" group-title="CULTURA",FOX_SPORTS_3_HD
-http://10.12.94.2:25461/SQ/12345/49
+http://10.12.94.4:25461/SQ/12345/49
 #EXTINF:-1 tvg-id="" tvg-name="FX_Movies" tvg-logo="" group-title="CULTURA",FX_Movies
-http://10.12.94.2:25461/SQ/12345/50
+http://10.12.94.4:25461/SQ/12345/50
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="CULTURA",Golden
-http://10.12.94.2:25461/SQ/12345/51
+http://10.12.94.4:25461/SQ/12345/51
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="MUSICA",H2
-http://10.12.94.2:25461/SQ/12345/52
+http://10.12.94.4:25461/SQ/12345/52
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CULTURA",HBO
-http://10.12.94.2:25461/SQ/12345/53
+http://10.12.94.4:25461/SQ/12345/53
 #EXTINF:-1 tvg-id="" tvg-name="HBO_Family" tvg-logo="" group-title="PELICULAS",HBO_Family
-http://10.12.94.2:25461/SQ/12345/54
+http://10.12.94.4:25461/SQ/12345/54
 #EXTINF:-1 tvg-id="" tvg-name="HBO_Plus" tvg-logo="" group-title="PELICULAS",HBO_Plus
-http://10.12.94.2:25461/SQ/12345/55
+http://10.12.94.4:25461/SQ/12345/55
 #EXTINF:-1 tvg-id="" tvg-name="HBO_XTREME" tvg-logo="" group-title="PELICULAS",HBO_XTREME
-http://10.12.94.2:25461/SQ/12345/56
+http://10.12.94.4:25461/SQ/12345/56
 #EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="PELICULAS",HBO2
-http://10.12.94.2:25461/SQ/12345/57
+http://10.12.94.4:25461/SQ/12345/57
 #EXTINF:-1 tvg-id="" tvg-name="History_Channel" tvg-logo="" group-title="CULTURA",History_Channel
-http://10.12.94.2:25461/SQ/12345/58
+http://10.12.94.4:25461/SQ/12345/58
 #EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="CULTURA",Hola!TV
-http://10.12.94.2:25461/SQ/12345/59
+http://10.12.94.4:25461/SQ/12345/59
 #EXTINF:-1 tvg-id="" tvg-name="Home_&_Health_HD" tvg-logo="" group-title="CULTURA",Home_&_Health_HD
-http://10.12.94.2:25461/SQ/12345/60
+http://10.12.94.4:25461/SQ/12345/60
 #EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="CULTURA",ID
-http://10.12.94.2:25461/SQ/12345/61
+http://10.12.94.4:25461/SQ/12345/61
 #EXTINF:-1 tvg-id="" tvg-name="La_voz_de_Maria" tvg-logo="" group-title="CULTURA",La_voz_de_Maria
-http://10.12.94.2:25461/SQ/12345/62
+http://10.12.94.4:25461/SQ/12345/62
 #EXTINF:-1 tvg-id="" tvg-name="LIFE_TIME" tvg-logo="" group-title="CULTURA",LIFE_TIME
-http://10.12.94.2:25461/SQ/12345/63
+http://10.12.94.4:25461/SQ/12345/63
 #EXTINF:-1 tvg-id="" tvg-name="Mas_Chic" tvg-logo="" group-title="CULTURA",Mas_Chic
-http://10.12.94.2:25461/SQ/12345/64
+http://10.12.94.4:25461/SQ/12345/64
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSICA",MTV
-http://10.12.94.2:25461/SQ/12345/65
+http://10.12.94.4:25461/SQ/12345/65
 #EXTINF:-1 tvg-id="" tvg-name="MTV_80s" tvg-logo="" group-title="MUSICA",MTV_80s
-http://10.12.94.2:25461/SQ/12345/66
-#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="MUSICA",Multicinema
-http://10.12.94.2:25461/SQ/12345/68
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="PELICULAS",Multipremier
-http://10.12.94.2:25461/SQ/12345/69
-#EXTINF:-1 tvg-id="" tvg-name="Nat_Geo_HD" tvg-logo="" group-title="CULTURA",Nat_Geo_HD
-http://10.12.94.2:25461/SQ/12345/70
-#EXTINF:-1 tvg-id="" tvg-name="National_Geographic" tvg-logo="" group-title="CULTURA",National_Geographic
-http://10.12.94.2:25461/SQ/12345/71
-#EXTINF:-1 tvg-id="" tvg-name="Nick_Jr" tvg-logo="" group-title="INFANTILES",Nick_Jr
-http://10.12.94.2:25461/SQ/12345/72
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="INFANTILES",Nickelodeon
-http://10.12.94.2:25461/SQ/12345/73
-#EXTINF:-1 tvg-id="" tvg-name="Paramount_HD" tvg-logo="" group-title="CULTURA",Paramount_HD
-http://10.12.94.2:25461/SQ/12345/74
-#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="" group-title="CULTURA",Sembrador
-http://10.12.94.2:25461/SQ/12345/76
-#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="" group-title="INFANTILES",SEMILLITAS
-http://10.12.94.2:25461/SQ/12345/77
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="PELICULAS",SONY
-http://10.12.94.2:25461/SQ/12345/78
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="PELICULAS",SPACE
-http://10.12.94.2:25461/SQ/12345/79
-#EXTINF:-1 tvg-id="" tvg-name="STAR_ACTION" tvg-logo="" group-title="CULTURA",STAR_ACTION
-http://10.12.94.2:25461/SQ/12345/80
-#EXTINF:-1 tvg-id="" tvg-name="STAR_CHANNEL" tvg-logo="" group-title="CULTURA",STAR_CHANNEL
-http://10.12.94.2:25461/SQ/12345/81
-#EXTINF:-1 tvg-id="" tvg-name="STAR_CLASSICS" tvg-logo="" group-title="CULTURA",STAR_CLASSICS
-http://10.12.94.2:25461/SQ/12345/82
-#EXTINF:-1 tvg-id="" tvg-name="STAR_COMEDY_HD" tvg-logo="" group-title="CULTURA",STAR_COMEDY_HD
-http://10.12.94.2:25461/SQ/12345/83
-#EXTINF:-1 tvg-id="" tvg-name="STAR_FUN" tvg-logo="" group-title="CULTURA",STAR_FUN
-http://10.12.94.2:25461/SQ/12345/84
-#EXTINF:-1 tvg-id="" tvg-name="STAR_SERIES" tvg-logo="" group-title="PELICULAS",STAR_SERIES
-http://10.12.94.2:25461/SQ/12345/85
-#EXTINF:-1 tvg-id="" tvg-name="STAR_LIFE" tvg-logo="" group-title="CULTURA",STAR_LIFE
-http://10.12.94.2:25461/SQ/12345/86
-#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal" tvg-logo="" group-title="PELICULAS",Studio_Universal
-http://10.12.94.2:25461/SQ/12345/87
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="CULTURA",SyFy
-http://10.12.94.2:25461/SQ/12345/88
-#EXTINF:-1 tvg-id="" tvg-name="TBN_Enlace" tvg-logo="" group-title="CULTURA",TBN_Enlace
-http://10.12.94.2:25461/SQ/12345/89
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="CULTURA",TCM
-http://10.12.94.2:25461/SQ/12345/90
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="CULTURA",Telemundo
-http://10.12.94.2:25461/SQ/12345/91
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo_HD" tvg-logo="" group-title="CULTURA",Telemundo_HD
-http://10.12.94.2:25461/SQ/12345/92
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="CULTURA",TLC
-http://10.12.94.2:25461/SQ/12345/93
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="PELICULAS",TNT
-http://10.12.94.2:25461/SQ/12345/94
-#EXTINF:-1 tvg-id="" tvg-name="TNT_HD" tvg-logo="" group-title="PELICULAS",TNT_HD
-http://10.12.94.2:25461/SQ/12345/95
-#EXTINF:-1 tvg-id="" tvg-name="TNT_Series" tvg-logo="" group-title="PELICULAS",TNT_Series
-http://10.12.94.2:25461/SQ/12345/96
-#EXTINF:-1 tvg-id="" tvg-name="TNT_Series_HD" tvg-logo="" group-title="PELICULAS",TNT_Series_HD
-http://10.12.94.2:25461/SQ/12345/97
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="PELICULAS",Universal
-http://10.12.94.2:25461/SQ/12345/98
-#EXTINF:-1 tvg-id="" tvg-name="Univision_HD" tvg-logo="" group-title="CULTURA",Univision_HD
-http://10.12.94.2:25461/SQ/12345/99
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="CULTURA",VH1
-http://10.12.94.2:25461/SQ/12345/100
-#EXTINF:-1 tvg-id="" tvg-name="TDTV_HD" tvg-logo="" group-title="DEPORTES",TDTV_HD
-http://10.12.94.2:25461/SQ/12345/101
-#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_7/4_HD" tvg-logo="" group-title="LOCALES",TELEVICENTRO_7/4_HD
-http://10.12.94.2:25461/SQ/12345/102
-#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_TSI_HD+" tvg-logo="" group-title="LOCALES",TELEVICENTRO_TSI_HD+
-http://10.12.94.2:25461/SQ/12345/103
-#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_CANAL_5_HD+" tvg-logo="" group-title="LOCALES",TELEVICENTRO_CANAL_5_HD+
-http://10.12.94.2:25461/SQ/12345/104
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 HD" tvg-logo="" group-title="LOCALES",CANAL 11 HD
-http://10.12.94.2:25461/SQ/12345/105
-#EXTINF:-1 tvg-id="" tvg-name="VTV_HD" tvg-logo="" group-title="LOCALES",VTV_HD
-http://10.12.94.2:25461/SQ/12345/106
-#EXTINF:-1 tvg-id="" tvg-name="IGLESIA_EBENEZER " tvg-logo="" group-title="LOCALES",IGLESIA_EBENEZER 
-http://10.12.94.2:25461/SQ/12345/107
-#EXTINF:-1 tvg-id="" tvg-name="RED_BULL_HD_USA" tvg-logo="" group-title="CULTURA",RED_BULL_HD_USA
-http://10.12.94.2:25461/SQ/12345/108
-#EXTINF:-1 tvg-id="" tvg-name="TELEPROGRESO_HD" tvg-logo="" group-title="LOCALES",TELEPROGRESO_HD
-http://10.12.94.2:25461/SQ/12345/109
-#EXTINF:-1 tvg-id="" tvg-name="FOX_MOVIES _HD" tvg-logo="" group-title="PELICULAS",FOX_MOVIES _HD
-http://10.12.94.2:25461/SQ/12345/110
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_HD" tvg-logo="" group-title="DEPORTES",BEIN_SPORT_HD
-http://10.12.94.2:25461/SQ/12345/111
-#EXTINF:-1 tvg-id="" tvg-name="SKY_SPORT_HD" tvg-logo="" group-title="DEPORTES",SKY_SPORT_HD
-http://10.12.94.2:25461/SQ/12345/112
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER_LEAGUE_HD" tvg-logo="" group-title="DEPORTES",PREMIER_LEAGUE_HD
-http://10.12.94.2:25461/SQ/12345/113
-#EXTINF:-1 tvg-id="" tvg-name="TUDN_HD" tvg-logo="" group-title="DEPORTES",TUDN_HD
-http://10.12.94.2:25461/SQ/12345/114
-#EXTINF:-1 tvg-id="" tvg-name="CANAL_DE_LAS_ESTRELLAS " tvg-logo="" group-title="CULTURA",CANAL_DE_LAS_ESTRELLAS 
-http://10.12.94.2:25461/SQ/12345/115
-#EXTINF:-1 tvg-id="" tvg-name="CNN_EN _ESPAÑOL" tvg-logo="" group-title="CULTURA",CNN_EN _ESPAÑOL
-http://10.12.94.2:25461/SQ/12345/116
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY_CENTRAL_4K" tvg-logo="" group-title="CULTURA",COMEDY_CENTRAL_4K
-http://10.12.94.2:25461/SQ/12345/117
-#EXTINF:-1 tvg-id="" tvg-name="DE_PELICULA _HD" tvg-logo="" group-title="CULTURA",DE_PELICULA _HD
-http://10.12.94.2:25461/SQ/12345/118
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO_COMEDIA_HD" tvg-logo="" group-title="CULTURA",DISTRITO_COMEDIA_HD
-http://10.12.94.2:25461/SQ/12345/119
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY_2 _HD" tvg-logo="" group-title="CULTURA",HISTORY_2 _HD
-http://10.12.94.2:25461/SQ/12345/120
+http://10.12.94.4:25461/SQ/12345/66
 #EXTINF:-1 tvg-id="" tvg-name="MTV_Hits" tvg-logo="" group-title="MUSICA",MTV_Hits
-http://10.12.94.2:25461/SQ/12345/122
+http://10.12.94.4:25461/SQ/12345/67
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="MUSICA",Multicinema
+http://10.12.94.4:25461/SQ/12345/68
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="PELICULAS",Multipremier
+http://10.12.94.4:25461/SQ/12345/69
+#EXTINF:-1 tvg-id="" tvg-name="Nat_Geo_HD" tvg-logo="" group-title="CULTURA",Nat_Geo_HD
+http://10.12.94.4:25461/SQ/12345/70
+#EXTINF:-1 tvg-id="" tvg-name="National_Geographic" tvg-logo="" group-title="CULTURA",National_Geographic
+http://10.12.94.4:25461/SQ/12345/71
+#EXTINF:-1 tvg-id="" tvg-name="Nick_Jr" tvg-logo="" group-title="INFANTILES",Nick_Jr
+http://10.12.94.4:25461/SQ/12345/72
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="INFANTILES",Nickelodeon
+http://10.12.94.4:25461/SQ/12345/73
+#EXTINF:-1 tvg-id="" tvg-name="Paramount_HD" tvg-logo="" group-title="CULTURA",Paramount_HD
+http://10.12.94.4:25461/SQ/12345/74
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="" group-title="CULTURA",Sembrador
+http://10.12.94.4:25461/SQ/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="" group-title="INFANTILES",SEMILLITAS
+http://10.12.94.4:25461/SQ/12345/77
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="PELICULAS",SONY
+http://10.12.94.4:25461/SQ/12345/78
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="PELICULAS",SPACE
+http://10.12.94.4:25461/SQ/12345/79
+#EXTINF:-1 tvg-id="" tvg-name="STAR_ACTION" tvg-logo="" group-title="CULTURA",STAR_ACTION
+http://10.12.94.4:25461/SQ/12345/80
+#EXTINF:-1 tvg-id="" tvg-name="STAR_CHANNEL" tvg-logo="" group-title="CULTURA",STAR_CHANNEL
+http://10.12.94.4:25461/SQ/12345/81
+#EXTINF:-1 tvg-id="" tvg-name="STAR_CLASSICS" tvg-logo="" group-title="CULTURA",STAR_CLASSICS
+http://10.12.94.4:25461/SQ/12345/82
+#EXTINF:-1 tvg-id="" tvg-name="STAR_COMEDY_HD" tvg-logo="" group-title="CULTURA",STAR_COMEDY_HD
+http://10.12.94.4:25461/SQ/12345/83
+#EXTINF:-1 tvg-id="" tvg-name="STAR_FUN" tvg-logo="" group-title="CULTURA",STAR_FUN
+http://10.12.94.4:25461/SQ/12345/84
+#EXTINF:-1 tvg-id="" tvg-name="STAR_SERIES" tvg-logo="" group-title="PELICULAS",STAR_SERIES
+http://10.12.94.4:25461/SQ/12345/85
+#EXTINF:-1 tvg-id="" tvg-name="STAR_LIFE" tvg-logo="" group-title="CULTURA",STAR_LIFE
+http://10.12.94.4:25461/SQ/12345/86
+#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal" tvg-logo="" group-title="PELICULAS",Studio_Universal
+http://10.12.94.4:25461/SQ/12345/87
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="CULTURA",SyFy
+http://10.12.94.4:25461/SQ/12345/88
+#EXTINF:-1 tvg-id="" tvg-name="TBN_Enlace" tvg-logo="" group-title="CULTURA",TBN_Enlace
+http://10.12.94.4:25461/SQ/12345/89
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="CULTURA",TCM
+http://10.12.94.4:25461/SQ/12345/90
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="CULTURA",Telemundo
+http://10.12.94.4:25461/SQ/12345/91
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo_HD" tvg-logo="" group-title="CULTURA",Telemundo_HD
+http://10.12.94.4:25461/SQ/12345/92
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="CULTURA",TLC
+http://10.12.94.4:25461/SQ/12345/93
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="PELICULAS",TNT
+http://10.12.94.4:25461/SQ/12345/94
+#EXTINF:-1 tvg-id="" tvg-name="TNT_HD" tvg-logo="" group-title="PELICULAS",TNT_HD
+http://10.12.94.4:25461/SQ/12345/95
+#EXTINF:-1 tvg-id="" tvg-name="TNT_Series" tvg-logo="" group-title="PELICULAS",TNT_Series
+http://10.12.94.4:25461/SQ/12345/96
+#EXTINF:-1 tvg-id="" tvg-name="TNT_Series_HD" tvg-logo="" group-title="PELICULAS",TNT_Series_HD
+http://10.12.94.4:25461/SQ/12345/97
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="PELICULAS",Universal
+http://10.12.94.4:25461/SQ/12345/98
+#EXTINF:-1 tvg-id="" tvg-name="Univision_HD" tvg-logo="" group-title="CULTURA",Univision_HD
+http://10.12.94.4:25461/SQ/12345/99
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="CULTURA",VH1
+http://10.12.94.4:25461/SQ/12345/100
+#EXTINF:-1 tvg-id="" tvg-name="TDTV_HD" tvg-logo="" group-title="DEPORTES",TDTV_HD
+http://10.12.94.4:25461/SQ/12345/101
+#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_7/4_HD" tvg-logo="" group-title="LOCALES",TELEVICENTRO_7/4_HD
+http://10.12.94.4:25461/SQ/12345/102
+#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_TSI_HD+" tvg-logo="" group-title="LOCALES",TELEVICENTRO_TSI_HD+
+http://10.12.94.4:25461/SQ/12345/103
+#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO_CANAL_5_HD+" tvg-logo="" group-title="LOCALES",TELEVICENTRO_CANAL_5_HD+
+http://10.12.94.4:25461/SQ/12345/104
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 HD" tvg-logo="" group-title="LOCALES",CANAL 11 HD
+http://10.12.94.4:25461/SQ/12345/105
+#EXTINF:-1 tvg-id="" tvg-name="VTV_HD" tvg-logo="" group-title="LOCALES",VTV_HD
+http://10.12.94.4:25461/SQ/12345/106
+#EXTINF:-1 tvg-id="" tvg-name="IGLESIA_EBENEZER " tvg-logo="" group-title="LOCALES",IGLESIA_EBENEZER 
+http://10.12.94.4:25461/SQ/12345/107
+#EXTINF:-1 tvg-id="" tvg-name="RED_BULL_HD _USA" tvg-logo="" group-title="CULTURA",RED_BULL_HD _USA
+http://10.12.94.4:25461/SQ/12345/108
+#EXTINF:-1 tvg-id="" tvg-name="TELEPROGRESO_HD" tvg-logo="" group-title="LOCALES",TELEPROGRESO_HD
+http://10.12.94.4:25461/SQ/12345/109
+#EXTINF:-1 tvg-id="" tvg-name="FOX_MOVIES _HD" tvg-logo="" group-title="PELICULAS",FOX_MOVIES _HD
+http://10.12.94.4:25461/SQ/12345/110
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_HD" tvg-logo="" group-title="DEPORTES",BEIN_SPORT_HD
+http://10.12.94.4:25461/SQ/12345/111
+#EXTINF:-1 tvg-id="" tvg-name="SKY_SPORT_HD" tvg-logo="" group-title="DEPORTES",SKY_SPORT_HD
+http://10.12.94.4:25461/SQ/12345/112
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER_LEAGUE_HD" tvg-logo="" group-title="DEPORTES",PREMIER_LEAGUE_HD
+http://10.12.94.4:25461/SQ/12345/113
+#EXTINF:-1 tvg-id="" tvg-name="TUDN_HD" tvg-logo="" group-title="DEPORTES",TUDN_HD
+http://10.12.94.4:25461/SQ/12345/114
+#EXTINF:-1 tvg-id="" tvg-name="CANAL_DE_LAS_ESTRELLAS " tvg-logo="" group-title="CULTURA",CANAL_DE_LAS_ESTRELLAS 
+http://10.12.94.4:25461/SQ/12345/115
+#EXTINF:-1 tvg-id="" tvg-name="CNN_EN _ESPAÑOL" tvg-logo="" group-title="CULTURA",CNN_EN _ESPAÑOL
+http://10.12.94.4:25461/SQ/12345/116
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY_CENTRAL_4K" tvg-logo="" group-title="CULTURA",COMEDY_CENTRAL_4K
+http://10.12.94.4:25461/SQ/12345/117
+#EXTINF:-1 tvg-id="" tvg-name="DE_PELICULA _HD" tvg-logo="" group-title="CULTURA",DE_PELICULA _HD
+http://10.12.94.4:25461/SQ/12345/118
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO_COMEDIA_HD" tvg-logo="" group-title="CULTURA",DISTRITO_COMEDIA_HD
+http://10.12.94.4:25461/SQ/12345/119
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY_2 _HD" tvg-logo="" group-title="CULTURA",HISTORY_2 _HD
+http://10.12.94.4:25461/SQ/12345/120
