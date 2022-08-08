@@ -129,8 +129,6 @@ http://10.12.94.2:25461/SQ/12345/64
 http://10.12.94.2:25461/SQ/12345/65
 #EXTINF:-1 tvg-id="" tvg-name="MTV_80s" tvg-logo="" group-title="MUSICA",MTV_80s
 http://10.12.94.2:25461/SQ/12345/66
-#EXTINF:-1 tvg-id="" tvg-name="MTV_Hits" tvg-logo="" group-title="MUSICA",MTV_Hits
-http://10.12.94.2:25461/SQ/12345/67
 #EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="MUSICA",Multicinema
 http://10.12.94.2:25461/SQ/12345/68
 #EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="PELICULAS",Multipremier
@@ -209,7 +207,7 @@ http://10.12.94.2:25461/SQ/12345/105
 http://10.12.94.2:25461/SQ/12345/106
 #EXTINF:-1 tvg-id="" tvg-name="IGLESIA_EBENEZER " tvg-logo="" group-title="LOCALES",IGLESIA_EBENEZER 
 http://10.12.94.2:25461/SQ/12345/107
-#EXTINF:-1 tvg-id="" tvg-name="RED_BULL_HD _USA" tvg-logo="" group-title="CULTURA",RED_BULL_HD _USA
+#EXTINF:-1 tvg-id="" tvg-name="RED_BULL_HD_USA" tvg-logo="" group-title="CULTURA",RED_BULL_HD_USA
 http://10.12.94.2:25461/SQ/12345/108
 #EXTINF:-1 tvg-id="" tvg-name="TELEPROGRESO_HD" tvg-logo="" group-title="LOCALES",TELEPROGRESO_HD
 http://10.12.94.2:25461/SQ/12345/109
@@ -235,3 +233,5 @@ http://10.12.94.2:25461/SQ/12345/118
 http://10.12.94.2:25461/SQ/12345/119
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY_2 _HD" tvg-logo="" group-title="CULTURA",HISTORY_2 _HD
 http://10.12.94.2:25461/SQ/12345/120
+#EXTINF:-1 tvg-id="" tvg-name="MTV_Hits" tvg-logo="" group-title="MUSICA",MTV_Hits
+http://10.12.94.2:25461/SQ/12345/122
