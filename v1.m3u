@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1
 http://10.12.94.2:1242/A&E
 #EXTINF:-1
 http://10.12.94.2:1242/A&E_HD
