@@ -5,7 +5,7 @@ http://172.18.18.2:25461/SQ/12345/3
 http://172.18.18.2:25461/SQ/12345/41
 #EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO CANAL 5 HD+" tvg-logo="https://highqualitv.com/poster/canal5.png" group-title="NACIONALES",TELEVICENTRO CANAL 5 HD+
 http://172.18.18.2:25461/SQ/12345/42
-#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO 7/4  HD" tvg-logo="https://highqualitv.com/poster/telecadena.png" group-title="NACIONALES",TELEVICENTRO 7/4  HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena 7/4  HD" tvg-logo="https://seeklogo.com/images/T/telecadena-7-4-2018-present-logo-CB5C622441-seeklogo.com.png" group-title="NACIONALES",Telecadena 7/4  HD
 http://172.18.18.2:25461/SQ/12345/43
 #EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO TSI HD+" tvg-logo="https://highqualitv.com/poster/tsi.png" group-title="NACIONALES",TELEVICENTRO TSI HD+
 http://172.18.18.2:25461/SQ/12345/44
@@ -13,7 +13,7 @@ http://172.18.18.2:25461/SQ/12345/44
 http://172.18.18.2:25461/SQ/12345/45
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 11 HD" tvg-logo="https://highqualitv.com/poster/canal11.png" group-title="NACIONALES",CANAL 11 HD
 http://172.18.18.2:25461/SQ/12345/46
-#EXTINF:-1 tvg-id="" tvg-name="VTV  HD" tvg-logo="https://highqualitv.com/poster/vtv.png" group-title="NACIONALES",VTV  HD
+#EXTINF:-1 tvg-id="" tvg-name="VTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png" group-title="NACIONALES",VTV  HD
 http://172.18.18.2:25461/SQ/12345/47
 #EXTINF:-1 tvg-id="" tvg-name="IGLESIA EBENEZER " tvg-logo="https://seeklogo.com/images/M/ministerios-ebenezer-logo-8022110751-seeklogo.com.png" group-title="RELIGION",IGLESIA EBENEZER 
 http://172.18.18.2:25461/SQ/12345/798
@@ -29,8 +29,6 @@ http://172.18.18.2:25461/SQ/12345/814
 http://172.18.18.2:25461/SQ/12345/821
 #EXTINF:-1 tvg-id="" tvg-name="TELEPROGRESO HD" tvg-logo="https://highqualitv.com/poster/teleprogreso.png" group-title="NACIONALES",TELEPROGRESO HD
 http://172.18.18.2:25461/SQ/12345/822
-#EXTINF:-1 tvg-id="" tvg-name="TDTV HD" tvg-logo="http://radiohouse.hn/wp-content/uploads/2016/01/12523205_10153856754173245_3217657218607637536_n1.jpg" group-title="NACIONALES",TDTV HD
-http://172.18.18.2:25461/SQ/12345/825
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES  HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fe7c9f-a6f4-42d3-96fd-9924de610773/dede8ni-075f7795-e1d9-4df1-ad2c-572a7de9c1a7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3ZmU3YzlmLWE2ZjQtNDJkMy05NmZkLTk5MjRkZTYxMDc3M1wvZGVkZThuaS0wNzVmNzc5NS1lMWQ5LTRkZjEtYWQyYy01NzJhN2RlOWMxYTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9olV_sF7iUesU_VweDY1bvH21NTCC0qK7Xi_kRRa_ZA" group-title="PELICULAS",FOX MOVIES  HD
 http://172.18.18.2:25461/SQ/12345/827
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="PELICULAS",TNT HD
@@ -43,12 +41,8 @@ http://172.18.18.2:25461/SQ/12345/837
 http://172.18.18.2:25461/SQ/12345/838
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://highqualitv.com/poster/fox-sport2.png" group-title="DEPORTES",FOX SPORTS 2 HD
 http://172.18.18.2:25461/SQ/12345/839
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="https://highqualitv.com/poster/bein-sport.png" group-title="DEPORTES",BEIN SPORT HD
-http://172.18.18.2:25461/SQ/12345/909
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT HD" tvg-logo="https://highqualitv.com/poster/sky-sport.png" group-title="DEPORTES",SKY SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES _5" tvg-logo="" group-title="DEPORTES",DEPORTES _5
 http://172.18.18.2:25461/SQ/12345/1069
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE HD" tvg-logo="https://highqualitv.com/poster/premier-league.png" group-title="DEPORTES",PREMIER LEAGUE HD
-http://172.18.18.2:25461/SQ/12345/1070
 #EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN HD
 http://172.18.18.2:25461/SQ/12345/1071
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD" tvg-logo="https://highqualitv.com/poster/fox-sport3.png" group-title="DEPORTES",FOX SPORT 3 HD
@@ -71,8 +65,6 @@ http://172.18.18.2:25461/SQ/12345/1267
 http://172.18.18.2:25461/SQ/12345/1268
 #EXTINF:-1 tvg-id="" tvg-name="E "  ENTRETENIMIENTO HD" tvg-logo="https://highqualitv.com/poster/e-entertainment.png" group-title="CULTURA",E "  ENTRETENIMIENTO HD
 http://172.18.18.2:25461/SQ/12345/1269
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2  HD" tvg-logo="https://highqualitv.com/poster/history-2.png" group-title="CULTURA",HISTORY 2  HD
-http://172.18.18.2:25461/SQ/12345/1270
 #EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="https://highqualitv.com/poster/hola-tv.png" group-title="CULTURA",HOLA TV HD
 http://172.18.18.2:25461/SQ/12345/1271
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://highqualitv.com/poster/lifetime.png" group-title="CULTURA",LIFETIME HD
@@ -201,49 +193,15 @@ http://172.18.18.2:25461/SQ/12345/1352
 http://172.18.18.2:25461/SQ/12345/1353
 #EXTINF:-1 tvg-id="" tvg-name="HISPANTV " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2155-294x165-FFFFFF.jpg" group-title="NACIONALES",HISPANTV 
 http://172.18.18.2:25461/SQ/12345/2125
-#EXTINF:-1 tvg-id="" tvg-name="GUATEVISION " tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png?quality=82" group-title="NACIONALES",GUATEVISION 
-http://172.18.18.2:25461/SQ/12345/2124
-#EXTINF:-1 tvg-id="" tvg-name="CUBA TV" tvg-logo="https://www.clipartmax.com/png/middle/248-2485225_instituto-cubano-de-radio-y-televisi%C3%B3n-icrt.png" group-title="NACIONALES",CUBA TV
-http://172.18.18.2:25461/SQ/12345/2123
 #EXTINF:-1 tvg-id="" tvg-name="TELESUR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="NACIONALES",TELESUR 
 http://172.18.18.2:25461/SQ/12345/2121
 #EXTINF:-1 tvg-id="" tvg-name="TV CHILE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="NACIONALES",TV CHILE 
 http://172.18.18.2:25461/SQ/12345/2120
-#EXTINF:-1 tvg-id="" tvg-name="ATV+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/800px-ATV%2B_logo_2020.png" group-title="NACIONALES",ATV+ 
-http://172.18.18.2:25461/SQ/12345/2118
-#EXTINF:-1 tvg-id="" tvg-name="CHTV " tvg-logo="https://1.bp.blogspot.com/-gn85iBGxZXI/XQz9JTHcuZI/AAAAAAAAH1k/7bEpzuz1SD4JIWtqNxBAnZ5TCKq-o3eJACLcBGAs/s200/Canal%2BCHTV.png" group-title="NACIONALES",CHTV 
-http://172.18.18.2:25461/SQ/12345/2117
-#EXTINF:-1 tvg-id="" tvg-name="UTV " tvg-logo="https://presencia.unah.edu.hn/assets/1b814b64b7/utv.png" group-title="NACIONALES",UTV 
-http://172.18.18.2:25461/SQ/12345/2116
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CONGRESO" tvg-logo="https://amagatelevision.com/wp-content/uploads/2022/01/CANAL-CONGRESO.png" group-title="NACIONALES",CANAL CONGRESO
-http://172.18.18.2:25461/SQ/12345/2115
-#EXTINF:-1 tvg-id="" tvg-name="3ABN " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png" group-title="RELIGION",3ABN 
-http://172.18.18.2:25461/SQ/12345/2114
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="DEPORTES",TYC SPORT HD
-http://172.18.18.2:25461/SQ/12345/2007
-#EXTINF:-1 tvg-id="" tvg-name="JBN" tvg-logo="https://jbn39.com/wp-content/uploads/2019/02/logo-01-1.png" group-title="RELIGION",JBN
-http://172.18.18.2:25461/SQ/12345/2006
-#EXTINF:-1 tvg-id="" tvg-name="MAYA TV " tvg-logo="data:image/png;base64,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" group-title="NACIONALES",MAYA TV 
-http://172.18.18.2:25461/SQ/12345/2003
-#EXTINF:-1 tvg-id="" tvg-name="EDN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/EDN_logo.svg/1200px-EDN_logo.svg.png" group-title="NACIONALES",EDN 
-http://172.18.18.2:25461/SQ/12345/2002
-#EXTINF:-1 tvg-id="" tvg-name="LTV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="NACIONALES",LTV 
-http://172.18.18.2:25461/SQ/12345/2000
-#EXTINF:-1 tvg-id="" tvg-name="TELECEIBA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png" group-title="NACIONALES",TELECEIBA
-http://172.18.18.2:25461/SQ/12345/1990
-#EXTINF:-1 tvg-id="" tvg-name="CCI CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/nmgF3-7zPnYYkfnH1ocKBcAxjJ6Rtgyt8WoM8eVqSv6IdrFMVTdQExvPgE2MranDfbA7" group-title="RELIGION",CCI CHANNEL
-http://172.18.18.2:25461/SQ/12345/2001
-#EXTINF:-1 tvg-id="" tvg-name="DW " tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="CULTURA",DW 
-http://172.18.18.2:25461/SQ/12345/2005
 #EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-bundesliga-2-1805.png" group-title="DEPORTES",SKY BUNDESLIGA
 http://172.18.18.2:25461/SQ/12345/1995
 #EXTINF:-1 tvg-id="" tvg-name="TEN CANAL 10" tvg-logo="http://hondu.tv/wp-content/uploads/2016/10/Canal-10.jpg" group-title="NACIONALES",TEN CANAL 10
 http://172.18.18.2:25461/SQ/12345/1985
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV" tvg-logo="https://1.bp.blogspot.com/-JY2BGd_8ikw/X6yAFyIzoYI/AAAAAAAAAIQ/avoT814P-lkSvX9AKpRgmBbigknojKBQgCLcBGAsYHQ/w480/directv%2Bsport.png" group-title="DEPORTES",DIREC TV
-http://172.18.18.2:25461/SQ/12345/1983
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORT 1 MEXICO
-http://172.18.18.2:25461/SQ/12345/1982
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT Honduras" tvg-logo="https://play-lh.googleusercontent.com/l-Vsm722zOIM0S1OcByXcOCT3aSOXbGvTmjs8RRjP2Zx3U8FIPjHodWYaBBH32lxRx0=w600-h300-pc0xffffff-pd" group-title="DEPORTES",TIGO SPORT Honduras
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES -4" tvg-logo="" group-title="DEPORTES",DEPORTES -4
 http://172.18.18.2:25461/SQ/12345/1980
 #EXTINF:-1 tvg-id="" tvg-name="TEENICK   4K" tvg-logo="http://assets.stickpng.com/thumbs/61291706319275000479ac02.png" group-title="INFANTIL",TEENICK   4K
 http://172.18.18.2:25461/SQ/12345/1972
@@ -363,3 +321,385 @@ http://172.18.18.2:25461/SQ/12345/1356
 http://172.18.18.2:25461/SQ/12345/1355
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="TELENOVELAS",TELEMUNDO  4K
 http://172.18.18.2:25461/SQ/12345/1354
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="" group-title="MAS CANALES",Canal 11 HD
+http://172.18.18.2:25461/SQ/12345/2261
+#EXTINF:-1 tvg-id="" tvg-name="Teleprogreso HD" tvg-logo="" group-title="MAS CANALES",Teleprogreso HD
+http://172.18.18.2:25461/SQ/12345/2262
+#EXTINF:-1 tvg-id="" tvg-name="GOTV HD" tvg-logo="" group-title="MAS CANALES",GOTV HD
+http://172.18.18.2:25461/SQ/12345/2263
+#EXTINF:-1 tvg-id="" tvg-name="TNH HD" tvg-logo="" group-title="MAS CANALES",TNH HD
+http://172.18.18.2:25461/SQ/12345/2264
+#EXTINF:-1 tvg-id="" tvg-name="CAMPUS TV HD" tvg-logo="" group-title="MAS CANALES",CAMPUS TV HD
+http://172.18.18.2:25461/SQ/12345/2265
+#EXTINF:-1 tvg-id="" tvg-name="TEN 10 HD" tvg-logo="" group-title="MAS CANALES",TEN 10 HD
+http://172.18.18.2:25461/SQ/12345/2266
+#EXTINF:-1 tvg-id="" tvg-name="MEGA CLASICOS HD" tvg-logo="" group-title="MAS CANALES",MEGA CLASICOS HD
+http://172.18.18.2:25461/SQ/12345/2267
+#EXTINF:-1 tvg-id="" tvg-name="VIDA TV" tvg-logo="" group-title="MAS CANALES",VIDA TV
+http://172.18.18.2:25461/SQ/12345/2268
+#EXTINF:-1 tvg-id="" tvg-name="Porvenir TV" tvg-logo="" group-title="MAS CANALES",Porvenir TV
+http://172.18.18.2:25461/SQ/12345/2269
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HD" tvg-logo="" group-title="MAS CANALES",Caracol HD
+http://172.18.18.2:25461/SQ/12345/2271
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="MAS CANALES",Telenovelas
+http://172.18.18.2:25461/SQ/12345/2272
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="" group-title="MAS CANALES",TRUTV HD
+http://172.18.18.2:25461/SQ/12345/2273
+#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" tvg-logo="" group-title="MAS CANALES",AZ click HD
+http://172.18.18.2:25461/SQ/12345/2274
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="MAS CANALES",Animal Planet HD
+http://172.18.18.2:25461/SQ/12345/2275
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="MAS CANALES",Comedy Central HD
+http://172.18.18.2:25461/SQ/12345/2276
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="MAS CANALES",Discovery Theater HD
+http://172.18.18.2:25461/SQ/12345/2277
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="MAS CANALES",Discovery Channel HD
+http://172.18.18.2:25461/SQ/12345/2278
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="MAS CANALES",Concert Channel
+http://172.18.18.2:25461/SQ/12345/2279
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="MAS CANALES",Discovery ID HD
+http://172.18.18.2:25461/SQ/12345/2280
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" group-title="MAS CANALES",Discovery Kids HD
+http://172.18.18.2:25461/SQ/12345/2281
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="MAS CANALES",Discovery World HD
+http://172.18.18.2:25461/SQ/12345/2282
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="MAS CANALES",Discovery Turbo
+http://172.18.18.2:25461/SQ/12345/2283
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="" group-title="MAS CANALES",Discovery Home & Health HD
+http://172.18.18.2:25461/SQ/12345/2284
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="MAS CANALES",Discovery Civilization
+http://172.18.18.2:25461/SQ/12345/2285
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="MAS CANALES",Discovery Science
+http://172.18.18.2:25461/SQ/12345/2286
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" tvg-logo="" group-title="MAS CANALES",E! Entertairment HD
+http://172.18.18.2:25461/SQ/12345/2287
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="MAS CANALES",History HD
+http://172.18.18.2:25461/SQ/12345/2288
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="" group-title="MAS CANALES",ESPN Extra
+http://172.18.18.2:25461/SQ/12345/2289
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="" group-title="MAS CANALES",ESPN  HD
+http://172.18.18.2:25461/SQ/12345/2290
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="MAS CANALES",ESPN 2 HD
+http://172.18.18.2:25461/SQ/12345/2291
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="MAS CANALES",ESPN 3 HD
+http://172.18.18.2:25461/SQ/12345/2292
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports  HD" tvg-logo="" group-title="MAS CANALES",Fox Sports  HD
+http://172.18.18.2:25461/SQ/12345/2293
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="MAS CANALES",Fox Sports 2 HD
+http://172.18.18.2:25461/SQ/12345/2294
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="MAS CANALES",Fox Sports 3 HD
+http://172.18.18.2:25461/SQ/12345/2295
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="" group-title="MAS CANALES",Golf Channel HD
+http://172.18.18.2:25461/SQ/12345/2296
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sport" tvg-logo="" group-title="MAS CANALES",TNT Sport
+http://172.18.18.2:25461/SQ/12345/2297
+#EXTINF:-1 tvg-id="" tvg-name="TUDN ESTE" tvg-logo="" group-title="MAS CANALES",TUDN ESTE
+http://172.18.18.2:25461/SQ/12345/2298
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS" tvg-logo="" group-title="MAS CANALES",TyC SPORTS
+http://172.18.18.2:25461/SQ/12345/2299
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SUR" tvg-logo="" group-title="MAS CANALES",FOX SPORTS SUR
+http://172.18.18.2:25461/SQ/12345/2300
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 3" tvg-logo="" group-title="MAS CANALES",DEPORTES 3
+http://172.18.18.2:25461/SQ/12345/2301
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES SPORTS 1" tvg-logo="" group-title="MAS CANALES",DEPORTES SPORTS 1
+http://172.18.18.2:25461/SQ/12345/2302
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 5" tvg-logo="" group-title="MAS CANALES",DEPORTES 5
+http://172.18.18.2:25461/SQ/12345/2303
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES PLUS +" tvg-logo="" group-title="MAS CANALES",DEPORTES PLUS +
+http://172.18.18.2:25461/SQ/12345/2304
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES SPORTS 2" tvg-logo="" group-title="MAS CANALES",DEPORTES SPORTS 2
+http://172.18.18.2:25461/SQ/12345/2305
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 4" tvg-logo="" group-title="MAS CANALES",DEPORTES 4
+http://172.18.18.2:25461/SQ/12345/2306
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD" tvg-logo="" group-title="MAS CANALES",FUTV HD
+http://172.18.18.2:25461/SQ/12345/2307
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" tvg-logo="" group-title="MAS CANALES",Europa HD
+http://172.18.18.2:25461/SQ/12345/2308
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="MAS CANALES",A&E HD
+http://172.18.18.2:25461/SQ/12345/2309
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="MAS CANALES",AMC HD
+http://172.18.18.2:25461/SQ/12345/2310
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="MAS CANALES",AXN HD
+http://172.18.18.2:25461/SQ/12345/2311
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="MAS CANALES",DHE
+http://172.18.18.2:25461/SQ/12345/2312
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="MAS CANALES",Cinemax HD
+http://172.18.18.2:25461/SQ/12345/2313
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="MAS CANALES",SONY HD
+http://172.18.18.2:25461/SQ/12345/2314
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="" group-title="MAS CANALES",Golden Plus HD
+http://172.18.18.2:25461/SQ/12345/2315
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="MAS CANALES",Golden
+http://172.18.18.2:25461/SQ/12345/2316
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="MAS CANALES",WARNER HD
+http://172.18.18.2:25461/SQ/12345/2317
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="MAS CANALES",HBO XTREME
+http://172.18.18.2:25461/SQ/12345/2318
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="MAS CANALES",HBO Family HD
+http://172.18.18.2:25461/SQ/12345/2319
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="MAS CANALES",HBO HD
+http://172.18.18.2:25461/SQ/12345/2320
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="" group-title="MAS CANALES",HBO Plus HD
+http://172.18.18.2:25461/SQ/12345/2321
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="" group-title="MAS CANALES",HBO2 HD
+http://172.18.18.2:25461/SQ/12345/2322
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="" group-title="MAS CANALES",HBO Signature HD
+http://172.18.18.2:25461/SQ/12345/2323
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="MAS CANALES",HBO POP HD
+http://172.18.18.2:25461/SQ/12345/2324
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="MAS CANALES",Multicinema
+http://172.18.18.2:25461/SQ/12345/2325
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD" tvg-logo="" group-title="MAS CANALES",Universal Reality HD
+http://172.18.18.2:25461/SQ/12345/2326
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema HD" tvg-logo="" group-title="MAS CANALES",Universal Cinema HD
+http://172.18.18.2:25461/SQ/12345/2327
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime HD" tvg-logo="" group-title="MAS CANALES",Universal Crime HD
+http://172.18.18.2:25461/SQ/12345/2328
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere HD" tvg-logo="" group-title="MAS CANALES",Universal Premiere HD
+http://172.18.18.2:25461/SQ/12345/2329
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere 1 HD" tvg-logo="" group-title="MAS CANALES",Universal Premiere 1 HD
+http://172.18.18.2:25461/SQ/12345/2330
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy HD" tvg-logo="" group-title="MAS CANALES",Universal Comedy HD
+http://172.18.18.2:25461/SQ/12345/2331
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="MAS CANALES",STAR CHANNEL HD
+http://172.18.18.2:25461/SQ/12345/2332
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE HD" tvg-logo="" group-title="MAS CANALES",STAR LIFE HD
+http://172.18.18.2:25461/SQ/12345/2333
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="" group-title="MAS CANALES",Sony Movies HD
+http://172.18.18.2:25461/SQ/12345/2334
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="MAS CANALES",SPACE HD
+http://172.18.18.2:25461/SQ/12345/2336
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal HD" tvg-logo="" group-title="MAS CANALES",Cine Canal HD
+http://172.18.18.2:25461/SQ/12345/2337
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="MAS CANALES",Studio Universal HD
+http://172.18.18.2:25461/SQ/12345/2338
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="MAS CANALES",TNT Series HD
+http://172.18.18.2:25461/SQ/12345/2339
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="MAS CANALES",TNT HD
+http://172.18.18.2:25461/SQ/12345/2340
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="MAS CANALES",Paramount HD
+http://172.18.18.2:25461/SQ/12345/2341
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="MAS CANALES",SyFy HD
+http://172.18.18.2:25461/SQ/12345/2342
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" tvg-logo="" group-title="MAS CANALES",Film & arts HD
+http://172.18.18.2:25461/SQ/12345/2343
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" tvg-logo="" group-title="MAS CANALES",HOLA! TV HD
+http://172.18.18.2:25461/SQ/12345/2344
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="MAS CANALES",Glitz
+http://172.18.18.2:25461/SQ/12345/2345
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="MAS CANALES",Distrito Comedia
+http://172.18.18.2:25461/SQ/12345/2346
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MAS CANALES",MTV HD
+http://172.18.18.2:25461/SQ/12345/2347
+#EXTINF:-1 tvg-id="" tvg-name="Teen Nick  HD" tvg-logo="" group-title="MAS CANALES",Teen Nick  HD
+http://172.18.18.2:25461/SQ/12345/2348
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="" group-title="MAS CANALES",Nick HD
+http://172.18.18.2:25461/SQ/12345/2349
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" group-title="MAS CANALES",Pasiones HD
+http://172.18.18.2:25461/SQ/12345/2350
+#EXTINF:-1 tvg-id="" tvg-name="TeleMicro" tvg-logo="" group-title="MAS CANALES",TeleMicro
+http://172.18.18.2:25461/SQ/12345/2351
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="MAS CANALES",Star TVE HD
+http://172.18.18.2:25461/SQ/12345/2352
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="" group-title="MAS CANALES",Univision HD
+http://172.18.18.2:25461/SQ/12345/2353
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="MAS CANALES",VH1 HD
+http://172.18.18.2:25461/SQ/12345/2354
+#EXTINF:-1 tvg-id="" tvg-name="Teletica" tvg-logo="" group-title="MAS CANALES",Teletica
+http://172.18.18.2:25461/SQ/12345/2355
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="MAS CANALES",Cartoon Network HD
+http://172.18.18.2:25461/SQ/12345/2356
+#EXTINF:-1 tvg-id="" tvg-name="CCN Catolico" tvg-logo="" group-title="MAS CANALES",CCN Catolico
+http://172.18.18.2:25461/SQ/12345/2357
+#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes" tvg-logo="" group-title="MAS CANALES",CDN Deportes
+http://172.18.18.2:25461/SQ/12345/2358
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-logo="" group-title="MAS CANALES",CNN en Español
+http://172.18.18.2:25461/SQ/12345/2359
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="MAS CANALES",El Gourmet
+http://172.18.18.2:25461/SQ/12345/2360
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="" group-title="MAS CANALES",Exa TV
+http://172.18.18.2:25461/SQ/12345/2361
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME HD" tvg-logo="" group-title="MAS CANALES",LIFE TIME HD
+http://172.18.18.2:25461/SQ/12345/2362
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="" group-title="MAS CANALES",RCN Novelas
+http://172.18.18.2:25461/SQ/12345/2363
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="" group-title="MAS CANALES",SEMILLITAS
+http://172.18.18.2:25461/SQ/12345/2364
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="" group-title="MAS CANALES",El Chavo del 8 24/7
+http://172.18.18.2:25461/SQ/12345/2365
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="MAS CANALES",Sun Channel
+http://172.18.18.2:25461/SQ/12345/2366
+#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="" group-title="MAS CANALES",TBN Enlace
+http://172.18.18.2:25461/SQ/12345/2367
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="MAS CANALES",TBS
+http://172.18.18.2:25461/SQ/12345/2368
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="MAS CANALES",TCM
+http://172.18.18.2:25461/SQ/12345/2369
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="MAS CANALES",TLC HD
+http://172.18.18.2:25461/SQ/12345/2370
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="MAS CANALES",ZooMoo
+http://172.18.18.2:25461/SQ/12345/2371
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="" group-title="MAS CANALES",Azteca 7 HD
+http://172.18.18.2:25461/SQ/12345/2372
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile HD" tvg-logo="" group-title="MAS CANALES",TV Chile HD
+http://172.18.18.2:25461/SQ/12345/2373
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="MAS CANALES",EWTN
+http://172.18.18.2:25461/SQ/12345/2374
+#EXTINF:-1 tvg-id="" tvg-name="Bethel Plus HD" tvg-logo="" group-title="MAS CANALES",Bethel Plus HD
+http://172.18.18.2:25461/SQ/12345/2375
+#EXTINF:-1 tvg-id="" tvg-name="BethelHD" tvg-logo="" group-title="MAS CANALES",BethelHD
+http://172.18.18.2:25461/SQ/12345/2376
+#EXTINF:-1 tvg-id="" tvg-name="EJTV" tvg-logo="" group-title="MAS CANALES",EJTV
+http://172.18.18.2:25461/SQ/12345/2377
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="" group-title="MAS CANALES",ENLACE
+http://172.18.18.2:25461/SQ/12345/2379
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="" group-title="MAS CANALES",France 24 HD
+http://172.18.18.2:25461/SQ/12345/2380
+#EXTINF:-1 tvg-id="" tvg-name="Red Advenir Internacional" tvg-logo="" group-title="MAS CANALES",Red Advenir Internacional
+http://172.18.18.2:25461/SQ/12345/2382
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="" group-title="MAS CANALES",Estrella TV
+http://172.18.18.2:25461/SQ/12345/2383
+#EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="" group-title="MAS CANALES",3ABN
+http://172.18.18.2:25461/SQ/12345/2384
+#EXTINF:-1 tvg-id="" tvg-name="Canal de Las Estrellas HD" tvg-logo="" group-title="MAS CANALES",Canal de Las Estrellas HD
+http://172.18.18.2:25461/SQ/12345/2385
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="MAS CANALES",Food Network HD
+http://172.18.18.2:25461/SQ/12345/2386
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="MAS CANALES",Disney Channel HD
+http://172.18.18.2:25461/SQ/12345/2387
+#EXTINF:-1 tvg-id="" tvg-name="Ebenezer HD" tvg-logo="" group-title="MAS CANALES",Ebenezer HD
+http://172.18.18.2:25461/SQ/12345/2388
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Honduras HD" tvg-logo="" group-title="MAS CANALES",Azteca Honduras HD
+http://172.18.18.2:25461/SQ/12345/2389
+#EXTINF:-1 tvg-id="" tvg-name="Suyapa TV" tvg-logo="" group-title="MAS CANALES",Suyapa TV
+http://172.18.18.2:25461/SQ/12345/2390
+#EXTINF:-1 tvg-id="" tvg-name="Navis TV HD" tvg-logo="" group-title="MAS CANALES",Navis TV HD
+http://172.18.18.2:25461/SQ/12345/2391
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry 24/7" tvg-logo="" group-title="MAS CANALES",Tom y Jerry 24/7
+http://172.18.18.2:25461/SQ/12345/2392
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24/7" tvg-logo="" group-title="MAS CANALES",South Park 24/7
+http://172.18.18.2:25461/SQ/12345/2393
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="MAS CANALES",Cine Latino
+http://172.18.18.2:25461/SQ/12345/2394
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="MAS CANALES",FX HD
+http://172.18.18.2:25461/SQ/12345/2395
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="MAS CANALES",Multipremier
+http://172.18.18.2:25461/SQ/12345/2396
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="MAS CANALES",Nickelodeon
+http://172.18.18.2:25461/SQ/12345/2397
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="MAS CANALES",Universal HD
+http://172.18.18.2:25461/SQ/12345/2398
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 HD" tvg-logo="" group-title="MAS CANALES",Antena 3 HD
+http://172.18.18.2:25461/SQ/12345/2399
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="MAS CANALES",Azcorazon
+http://172.18.18.2:25461/SQ/12345/2400
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="MAS CANALES",Azmundo
+http://172.18.18.2:25461/SQ/12345/2401
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo 24/7" tvg-logo="" group-title="MAS CANALES",Scooby Doo 24/7
+http://172.18.18.2:25461/SQ/12345/2402
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="MAS CANALES",Baby TV
+http://172.18.18.2:25461/SQ/12345/2403
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="MAS CANALES",Cartoonito
+http://172.18.18.2:25461/SQ/12345/2404
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua" tvg-logo="" group-title="MAS CANALES",Canal Antigua
+http://172.18.18.2:25461/SQ/12345/2405
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca" tvg-logo="" group-title="MAS CANALES",Canal Azteca
+http://172.18.18.2:25461/SQ/12345/2406
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="MAS CANALES",Disney JR
+http://172.18.18.2:25461/SQ/12345/2407
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="MAS CANALES",MTV Live HD
+http://172.18.18.2:25461/SQ/12345/2409
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="MAS CANALES",National Geographic
+http://172.18.18.2:25461/SQ/12345/2411
+#EXTINF:-1 tvg-id="" tvg-name="CH TV" tvg-logo="" group-title="MAS CANALES",CH TV
+http://172.18.18.2:25461/SQ/12345/2413
+#EXTINF:-1 tvg-id="" tvg-name="CH TV" tvg-logo="" group-title="MAS CANALES",CH TV
+http://172.18.18.2:25461/SQ/12345/2414
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="" group-title="MAS CANALES",DTV
+http://172.18.18.2:25461/SQ/12345/2415
+#EXTINF:-1 tvg-id="" tvg-name="JBN" tvg-logo="" group-title="MAS CANALES",JBN
+http://172.18.18.2:25461/SQ/12345/2416
+#EXTINF:-1 tvg-id="" tvg-name="Nuevo Mundo" tvg-logo="" group-title="MAS CANALES",Nuevo Mundo
+http://172.18.18.2:25461/SQ/12345/2417
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="MAS CANALES",RTV
+http://172.18.18.2:25461/SQ/12345/2418
+#EXTINF:-1 tvg-id="" tvg-name="Q HUBO TV" tvg-logo="" group-title="MAS CANALES",Q HUBO TV
+http://172.18.18.2:25461/SQ/12345/2419
+#EXTINF:-1 tvg-id="" tvg-name="Une TV" tvg-logo="" group-title="MAS CANALES",Une TV
+http://172.18.18.2:25461/SQ/12345/2420
+#EXTINF:-1 tvg-id="" tvg-name="Coraje El Perro Cobarde 24/7" tvg-logo="" group-title="MAS CANALES",Coraje El Perro Cobarde 24/7
+http://172.18.18.2:25461/SQ/12345/2421
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tones 24/7" tvg-logo="" group-title="MAS CANALES",Looney Tones 24/7
+http://172.18.18.2:25461/SQ/12345/2422
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24/7" tvg-logo="" group-title="MAS CANALES",Dragon Ball Z 24/7
+http://172.18.18.2:25461/SQ/12345/2423
+#EXTINF:-1 tvg-id="" tvg-name="Best TV" tvg-logo="" group-title="MAS CANALES",Best TV
+http://172.18.18.2:25461/SQ/12345/2424
+#EXTINF:-1 tvg-id="" tvg-name="Telemund HD" tvg-logo="" group-title="MAS CANALES",Telemund HD
+http://172.18.18.2:25461/SQ/12345/2425
+#EXTINF:-1 tvg-id="" tvg-name="Play Movie | HD" tvg-logo="" group-title="MAS CANALES",Play Movie | HD
+http://172.18.18.2:25461/SQ/12345/2426
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="" group-title="MAS CANALES",ESPN Sur
+http://172.18.18.2:25461/SQ/12345/2427
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Sur" tvg-logo="" group-title="MAS CANALES",ESPN 2 Sur
+http://172.18.18.2:25461/SQ/12345/2428
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sur" tvg-logo="" group-title="MAS CANALES",ESPN 3 Sur
+http://172.18.18.2:25461/SQ/12345/2429
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="MAS CANALES",H2 HD
+http://172.18.18.2:25461/SQ/12345/2430
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="MAS CANALES",Discovery Turbo HD
+http://172.18.18.2:25461/SQ/12345/2431
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="" group-title="MAS CANALES",Discovery Civilization HD
+http://172.18.18.2:25461/SQ/12345/2432
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="" group-title="MAS CANALES",Azteca Uno HD
+http://172.18.18.2:25461/SQ/12345/2433
+#EXTINF:-1 tvg-id="" tvg-name="HISPAN TV" tvg-logo="" group-title="MAS CANALES",HISPAN TV
+http://172.18.18.2:25461/SQ/12345/2435
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="MAS CANALES",TVE
+http://172.18.18.2:25461/SQ/12345/2436
+#EXTINF:-1 tvg-id="" tvg-name="Universo NBC HD" tvg-logo="" group-title="MAS CANALES",Universo NBC HD
+http://172.18.18.2:25461/SQ/12345/2437
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="MAS CANALES",Mas Chic
+http://172.18.18.2:25461/SQ/12345/2438
+#EXTINF:-1 tvg-id="" tvg-name="Unimas HD" tvg-logo="" group-title="MAS CANALES",Unimas HD
+http://172.18.18.2:25461/SQ/12345/2440
+#EXTINF:-1 tvg-id="" tvg-name="Viendo Movies" tvg-logo="" group-title="MAS CANALES",Viendo Movies
+http://172.18.18.2:25461/SQ/12345/2441
+#EXTINF:-1 tvg-id="" tvg-name="Panico HD" tvg-logo="" group-title="MAS CANALES",Panico HD
+http://172.18.18.2:25461/SQ/12345/2442
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="MAS CANALES",ESPN 4 HD
+http://172.18.18.2:25461/SQ/12345/2443
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mexicano" tvg-logo="" group-title="MAS CANALES",Cine Mexicano
+http://172.18.18.2:25461/SQ/12345/2444
+#EXTINF:-1 tvg-id="" tvg-name="TeleSur HD" tvg-logo="" group-title="MAS CANALES",TeleSur HD
+http://172.18.18.2:25461/SQ/12345/2445
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="" group-title="MAS CANALES",Panamericana HD
+http://172.18.18.2:25461/SQ/12345/2446
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 MX HD" tvg-logo="" group-title="MAS CANALES",Canal 5 MX HD
+http://172.18.18.2:25461/SQ/12345/2447
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="MAS CANALES",HGTV
+http://172.18.18.2:25461/SQ/12345/2448
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - GUA" tvg-logo="" group-title="MAS CANALES",Canal 3 - GUA
+http://172.18.18.2:25461/SQ/12345/2449
+#EXTINF:-1 tvg-id="" tvg-name="Nasa 2 HD" tvg-logo="" group-title="MAS CANALES",Nasa 2 HD
+http://172.18.18.2:25461/SQ/12345/2450
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport Premiun HD" tvg-logo="" group-title="MAS CANALES",Fox Sport Premiun HD
+http://172.18.18.2:25461/SQ/12345/2451
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 | HD" tvg-logo="" group-title="MAS CANALES",Golden Premier 2 | HD
+http://172.18.18.2:25461/SQ/12345/2452
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="MAS CANALES",Golden Premier HD
+http://172.18.18.2:25461/SQ/12345/2453
+#EXTINF:-1 tvg-id="" tvg-name="DW HD" tvg-logo="" group-title="MAS CANALES",DW HD
+http://172.18.18.2:25461/SQ/12345/2454
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaeton & Trap HD" tvg-logo="" group-title="MAS CANALES",VEVO Reggaeton & Trap HD
+http://172.18.18.2:25461/SQ/12345/2455
+#EXTINF:-1 tvg-id="" tvg-name="VEVO R&B HD" tvg-logo="" group-title="MAS CANALES",VEVO R&B HD
+http://172.18.18.2:25461/SQ/12345/2456
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Pop HD" tvg-logo="" group-title="MAS CANALES",VEVO Pop HD
+http://172.18.18.2:25461/SQ/12345/2457
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="" group-title="MAS CANALES",Dreamworks HD
+http://172.18.18.2:25461/SQ/12345/2458
+#EXTINF:-1 tvg-id="" tvg-name="Bethel SD" tvg-logo="" group-title="MAS CANALES",Bethel SD
+http://172.18.18.2:25461/SQ/12345/2459
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19  AMAZONAS" tvg-logo="" group-title="MAS CANALES",Canal 19  AMAZONAS
+http://172.18.18.2:25461/SQ/12345/2460
