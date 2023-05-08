@@ -275,5 +275,29 @@ http://172.18.18.2:25461/SQ/12345/451
 http://172.18.18.2:25461/SQ/12345/453
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Entretenimiento",Telemundo
 http://172.18.18.2:25461/SQ/12345/455
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="" group-title="Deportes",TNT SPORT
+http://172.18.18.2:25461/SQ/12345/457
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="" group-title="Deportes",TUDN
+http://172.18.18.2:25461/SQ/12345/456
+#EXTINF:-1 tvg-id="" tvg-name="Tyc sport" tvg-logo="" group-title="Deportes",Tyc sport
+http://172.18.18.2:25461/SQ/12345/458
+#EXTINF:-1 tvg-id="" tvg-name="Fx sport Sur" tvg-logo="" group-title="Deportes",Fx sport Sur
+http://172.18.18.2:25461/SQ/12345/459
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 3" tvg-logo="" group-title="Deportes",DEPORTES 3
+http://172.18.18.2:25461/SQ/12345/460
+#EXTINF:-1 tvg-id="" tvg-name="DEPOETES 1" tvg-logo="" group-title="Deportes",DEPOETES 1
+http://172.18.18.2:25461/SQ/12345/461
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 5" tvg-logo="" group-title="Deportes",DEPORTES 5
+http://172.18.18.2:25461/SQ/12345/462
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES +" tvg-logo="" group-title="Deportes",DEPORTES +
+http://172.18.18.2:25461/SQ/12345/463
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES SPORT 2" tvg-logo="" group-title="Deportes",DEPORTES SPORT 2
+http://172.18.18.2:25461/SQ/12345/464
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 4" tvg-logo="" group-title="Deportes",DEPORTES 4
+http://172.18.18.2:25461/SQ/12345/465
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="Deportes",FUTV
+http://172.18.18.2:25461/SQ/12345/466
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA" tvg-logo="" group-title="Deportes",EUROPA
+http://172.18.18.2:25461/SQ/12345/467
 #EXTINF:-1 tvg-id="" tvg-name="RON DA ERROR" tvg-logo="https://i0.wp.com/cinemedios.com/wp-content/uploads/2021/09/poster-ron-da-error-1.jpg?ssl=1" group-title="PELICULAS",RON DA ERROR
 http://172.18.18.2:25461/movie/SQ/12345/454.mp4
