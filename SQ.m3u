@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="https://pbs.twimg.com/profile_images/1344654612205338625/pz4d3a8E.png" group-title="Entretenimiento",6 - Repretel
 http://172.18.18.2:25461/SQ/12345/277
-#EXTINF:-1 tvg-id="" tvg-name="7-Teletica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Entretenimiento",7-Teletica
-http://172.18.18.2:25461/SQ/12345/278
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Peliculas",A&E HD
 http://172.18.18.2:25461/SQ/12345/279
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://www.pngkey.com/png/detail/243-2431424_amc-hd-amc-tv.png" group-title="Peliculas",AMC HD
@@ -23,12 +21,8 @@ http://172.18.18.2:25461/SQ/12345/287
 http://172.18.18.2:25461/SQ/12345/288
 #EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://c0.klipartz.com/pngpicture/411/431/sticker-png-bbc-world-news-news-broadcasting-television-channel-rita-ora-miscellaneous-television-thumbnail.png" group-title="Entretenimiento",BBC World
 http://172.18.18.2:25461/SQ/12345/289
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://e7.pngegg.com/pngimages/741/655/png-clipart-babytv-television-channel-television-show-fox-international-channels-hungry-television-child.png" group-title="Infantiles",Baby TV
-http://172.18.18.2:25461/SQ/12345/290
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://www.pngitem.com/pimgs/m/419-4190748_new-boomerang-logo-recreation-new-boomerang-logo-hd.png" group-title="Infantiles",Boomerang
 http://172.18.18.2:25461/SQ/12345/291
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NT HD" tvg-logo="https://w7.pngwing.com/pngs/642/477/png-transparent-cartoon-network-nickelodeon-television-disney-channel-cartoon-logo-television-text-rectangle.png" group-title="Infantiles",CARTOON NT HD
-http://172.18.18.2:25461/SQ/12345/292
 #EXTINF:-1 tvg-id="" tvg-name="CCN" tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.Logo_CCN.png.dfbef1d4a01af4c5a8e17d90e40e4ef7.png" group-title="Entretenimiento",CCN
 http://172.18.18.2:25461/SQ/12345/293
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal-hd_m.png" group-title="Peliculas",CINECANAL HD
@@ -37,10 +31,6 @@ http://172.18.18.2:25461/SQ/12345/295
 http://172.18.18.2:25461/SQ/12345/296
 #EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="Entretenimiento",CNNE
 http://172.18.18.2:25461/SQ/12345/297
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://i.pinimg.com/originals/8e/c1/12/8ec1121b2039c6e2a9b77af104818d54.png" group-title="Peliculas",Cine Latino
-http://172.18.18.2:25461/SQ/12345/305
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas",CineMax
-http://172.18.18.2:25461/SQ/12345/306
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="Peliculas",Comedy Central HD
 http://172.18.18.2:25461/SQ/12345/308
 #EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="Peliculas",DHE HD
@@ -51,22 +41,10 @@ http://172.18.18.2:25461/SQ/12345/310
 http://172.18.18.2:25461/SQ/12345/311
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://www.redesenred.net/wp-content/uploads/2021/02/Como-ver-Discovery-Channel-en-vivo.png" group-title="Cultura",Discovery Channel HD
 http://172.18.18.2:25461/SQ/12345/312
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="Cultura",Discovery Civilization
-http://172.18.18.2:25461/SQ/12345/313
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-2.png" group-title="Cultura",Discovery Home & Health
-http://172.18.18.2:25461/SQ/12345/314
 #EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Cultura",Discovery ID HD
 http://172.18.18.2:25461/SQ/12345/315
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-kids-hd_m.png" group-title="Infantiles",Discovery Kids HD
-http://172.18.18.2:25461/SQ/12345/316
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",Discovery Science
-http://172.18.18.2:25461/SQ/12345/317
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://e7.pngegg.com/pngimages/19/158/png-clipart-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" group-title="Cultura",Discovery Turbo
-http://172.18.18.2:25461/SQ/12345/318
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://c1.klipartz.com/pngpicture/887/734/sticker-png-national-geographic-logo-discovery-world-television-channel-discovery-channel-discovery-inc-television-show-dtx-discovery-historia.png" group-title="Cultura",Discovery World HD
 http://172.18.18.2:25461/SQ/12345/319
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png" group-title="Infantiles",Disney
-http://172.18.18.2:25461/SQ/12345/320
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png" group-title="Infantiles",Disney JR
 http://172.18.18.2:25461/SQ/12345/321
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Infantiles",Disney XD
@@ -91,8 +69,6 @@ http://172.18.18.2:25461/SQ/12345/330
 http://172.18.18.2:25461/SQ/12345/331
 #EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="Musica",Exa TV
 http://172.18.18.2:25461/SQ/12345/332
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://e7.pngegg.com/pngimages/305/96/png-clipart-fox-broadcasting-company-logo-television-fox-international-channels-television-program-television-text.png" group-title="Peliculas",FOX
-http://172.18.18.2:25461/SQ/12345/333
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/1280px-Fox_Action_logo.svg.png" group-title="Peliculas",FOX Action HD
 http://172.18.18.2:25461/SQ/12345/334
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy HD" tvg-logo="https://www.pngfind.com/pngs/m/131-1311375_comedy-png-hd-fox-comedy-transparent-png.png" group-title="Peliculas",FOX Comedy HD
@@ -101,8 +77,6 @@ http://172.18.18.2:25461/SQ/12345/335
 http://172.18.18.2:25461/SQ/12345/336
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="Peliculas",FOX HD
 http://172.18.18.2:25461/SQ/12345/337
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="Peliculas",FOX LIFE
-http://172.18.18.2:25461/SQ/12345/338
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fox_Movies_logo.svg/1280px-Fox_Movies_logo.svg.png" group-title="Peliculas",FOX Movies HD
 http://172.18.18.2:25461/SQ/12345/339
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD" tvg-logo="" group-title="Deportes",Eventos 2 HD
@@ -121,8 +95,6 @@ http://172.18.18.2:25461/SQ/12345/345
 http://172.18.18.2:25461/SQ/12345/346
 #EXTINF:-1 tvg-id="" tvg-name="Fox Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/FOX-Classic-Logo-01.png" group-title="Peliculas",Fox Classic HD
 http://172.18.18.2:25461/SQ/12345/347
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 6" tvg-logo="" group-title="Deportes",Eventos 6
-http://172.18.18.2:25461/SQ/12345/349
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas",Golden
 http://172.18.18.2:25461/SQ/12345/350
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="https://www.seekpng.com/png/detail/358-3584680_golf-channel-logo-golf-channel-logo-png.png" group-title="Deportes",Golf Channel HD
@@ -155,54 +127,30 @@ http://172.18.18.2:25461/SQ/12345/366
 http://172.18.18.2:25461/SQ/12345/367
 #EXTINF:-1 tvg-id="" tvg-name="MTV SIM HD" tvg-logo="https://c0.klipartz.com/pngpicture/169/73/gratis-png-mtv-logo-logo-tv-viacom-media-networks-mtv-st-jerome-s-laneway-festival-programas-de-television.png" group-title="Musica",MTV SIM HD
 http://172.18.18.2:25461/SQ/12345/368
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento",Mas Chic
-http://172.18.18.2:25461/SQ/12345/369
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multimedios-television-logo-png-transparent.png" group-title="Peliculas",Multimedios
-http://172.18.18.2:25461/SQ/12345/370
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="Peliculas",Multipremier
-http://172.18.18.2:25461/SQ/12345/371
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Cultura",Nat Geo HD
 http://172.18.18.2:25461/SQ/12345/372
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-kids_m.png" group-title="Infantiles",Nat Geo Kids
 http://172.18.18.2:25461/SQ/12345/373
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Cultura",Nat Geo Wild
-http://172.18.18.2:25461/SQ/12345/374
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://c0.klipartz.com/pngpicture/238/940/sticker-png-national-geographic-logo-geography-magazine-graphy-forbes-magazine-logo-angle-text-photography-logo-desktop-wallpaper.png" group-title="Cultura",National Geographic
 http://172.18.18.2:25461/SQ/12345/375
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles",Nick 2 HD
-http://172.18.18.2:25461/SQ/12345/376
 #EXTINF:-1 tvg-id="" tvg-name="Nick SIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nick-logo.png/118px-Nick-logo.png" group-title="Infantiles",Nick SIM HD
 http://172.18.18.2:25461/SQ/12345/378
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://e7.pngegg.com/pngimages/225/723/png-clipart-nickelodeon-television-channel-logo-satellite-television-others-miscellaneous-television.png" group-title="Infantiles",Nickelodeon
-http://172.18.18.2:25461/SQ/12345/379
 #EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="Peliculas",Paramount HD
 http://172.18.18.2:25461/SQ/12345/381
 #EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Entretenimiento",Pasiones HD
 http://172.18.18.2:25461/SQ/12345/382
-#EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="Entretenimiento",RCN - GUA
-http://172.18.18.2:25461/SQ/12345/384
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1200px-RCN_Novelas_logo.svg.png" group-title="Entretenimiento",RCN Novelas
 http://172.18.18.2:25461/SQ/12345/385
-#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="https://www.rhema.co.za/wp-content/uploads/2014/12/RHEMA-TV-colour-e1423224136411.png" group-title="Entretenimiento",RHEMA TV
-http://172.18.18.2:25461/SQ/12345/386
 #EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://i.imgur.com/NrCYwMK.png" group-title="Infantiles",SEMILLITAS
 http://172.18.18.2:25461/SQ/12345/387
-#EXTINF:-1 tvg-id="" tvg-name="SERTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png" group-title="Entretenimiento",SERTV
-http://172.18.18.2:25461/SQ/12345/388
 #EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Peliculas",SONY HD
 http://172.18.18.2:25461/SQ/12345/389
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_space-hd_m.png" group-title="Peliculas",SPACE HD
-http://172.18.18.2:25461/SQ/12345/390
 #EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="https://pbs.twimg.com/profile_images/661577192317521920/Rwkigrdv_400x400.png" group-title="Entretenimiento",Sembrador
 http://172.18.18.2:25461/SQ/12345/391
 #EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="Entretenimiento",Star TVE HD
 http://172.18.18.2:25461/SQ/12345/392
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://e7.pngegg.com/pngimages/808/1019/png-clipart-universal-s-studio-universal-premium-cinema-mediaset-premium-film-universal-logo-miscellaneous-television-thumbnail.png" group-title="Peliculas",Studio Universal HD
 http://172.18.18.2:25461/SQ/12345/393
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="Infantiles",Sun Channel
-http://172.18.18.2:25461/SQ/12345/394
-#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Peliculas",SyFy HD
-http://172.18.18.2:25461/SQ/12345/395
 #EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="https://www.pngkit.com/png/detail/266-2662055_enlace-tbn-canal-23-enlace-logo-png.png" group-title="Entretenimiento",TBN Enlace
 http://172.18.18.2:25461/SQ/12345/396
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Peliculas",TCM
@@ -213,30 +161,16 @@ http://172.18.18.2:25461/SQ/12345/398
 http://172.18.18.2:25461/SQ/12345/399
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="Peliculas",TNT Series HD
 http://172.18.18.2:25461/SQ/12345/400
-#EXTINF:-1 tvg-id="" tvg-name="TVChile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="Peliculas",TVChile
-http://172.18.18.2:25461/SQ/12345/402
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento",TVE
-http://172.18.18.2:25461/SQ/12345/403
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="https://master.d2gnmmimbvzgnk.amplifyapp.com/static/media/default-img-220x226.82bd4212.png" group-title="Entretenimiento",Telemundo HD
 http://172.18.18.2:25461/SQ/12345/405
 #EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="Entretenimiento",Telesistema RD
 http://172.18.18.2:25461/SQ/12345/406
 #EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="https://sc.dish.com/shared/images/station-logos/TELEU.PNG" group-title="Entretenimiento",Teleuniverso - RD
 http://172.18.18.2:25461/SQ/12345/407
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://e1.pngegg.com/pngimages/877/222/png-clipart-tv-channel-icons-universal-channel-black-mirror-universal-channel-logo-thumbnail.png" group-title="Peliculas",Universal
-http://172.18.18.2:25461/SQ/12345/408
 #EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="https://spng.pngfind.com/pngs/s/71-717732_logo-univision-univision-logo-png-transparent-png.png" group-title="Entretenimiento",Univision HD
 http://172.18.18.2:25461/SQ/12345/409
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/VH1_Classic_Logo-420x294.png" group-title="Musica",VH1 Classic
 http://172.18.18.2:25461/SQ/12345/411
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="Musica",VH1 HD
-http://172.18.18.2:25461/SQ/12345/412
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1058px-Warner_Channel_HD.svg.png" group-title="Peliculas",WARNER HD
-http://172.18.18.2:25461/SQ/12345/413
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://c0.klipartz.com/pngpicture/415/634/gratis-png-zoomoo-television-canal-youtube-logo-youtube-thumbnail.png" group-title="Infantiles",ZooMoo
-http://172.18.18.2:25461/SQ/12345/414
-#EXTINF:-1 tvg-id="" tvg-name="Ebenezer " tvg-logo="https://colegioebenezer.edu.co/wp-content/uploads/2016/09/LOGO-EBENEZER-final-20141.png" group-title="Locales",Ebenezer 
-http://172.18.18.2:25461/SQ/12345/417
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11  HN" tvg-logo="" group-title="Locales",Canal 11  HN
 http://172.18.18.2:25461/SQ/12345/426
 #EXTINF:-1 tvg-id="" tvg-name="Teleprogreso" tvg-logo="" group-title="Locales",Teleprogreso
@@ -247,14 +181,8 @@ http://172.18.18.2:25461/SQ/12345/435
 http://172.18.18.2:25461/SQ/12345/436
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 3" tvg-logo="" group-title="Deportes",Eventos 3
 http://172.18.18.2:25461/SQ/12345/437
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 4" tvg-logo="" group-title="Deportes",Eventos 4
-http://172.18.18.2:25461/SQ/12345/438
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="Entretenimiento",Las Estrellas
 http://172.18.18.2:25461/SQ/12345/439
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="Entretenimiento",Distrito Comedia
-http://172.18.18.2:25461/SQ/12345/440
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="" group-title="Entretenimiento",Telemundo Miami
-http://172.18.18.2:25461/SQ/12345/441
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="" group-title="Locales",Canal 6
 http://172.18.18.2:25461/SQ/12345/442
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="Peliculas",De Pelicula
@@ -265,16 +193,10 @@ http://172.18.18.2:25461/SQ/12345/445
 http://172.18.18.2:25461/SQ/12345/446
 #EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
 http://172.18.18.2:25461/SQ/12345/447
-#EXTINF:-1 tvg-id="" tvg-name="TDTV  PLUS HN" tvg-logo="" group-title="Locales",TDTV  PLUS HN
-http://172.18.18.2:25461/SQ/12345/448
 #EXTINF:-1 tvg-id="" tvg-name="Telecadena 7/4" tvg-logo="" group-title="Locales",Telecadena 7/4
 http://172.18.18.2:25461/SQ/12345/449
 #EXTINF:-1 tvg-id="" tvg-name="TDTV HN" tvg-logo="" group-title="Locales",TDTV HN
 http://172.18.18.2:25461/SQ/12345/451
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 5" tvg-logo="" group-title="Deportes",Eventos 5
-http://172.18.18.2:25461/SQ/12345/453
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Entretenimiento",Telemundo
-http://172.18.18.2:25461/SQ/12345/455
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="" group-title="Deportes",TNT SPORT
 http://172.18.18.2:25461/SQ/12345/457
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="" group-title="Deportes",TUDN
@@ -299,5 +221,7 @@ http://172.18.18.2:25461/SQ/12345/465
 http://172.18.18.2:25461/SQ/12345/466
 #EXTINF:-1 tvg-id="" tvg-name="EUROPA" tvg-logo="" group-title="Deportes",EUROPA
 http://172.18.18.2:25461/SQ/12345/467
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://i.pinimg.com/originals/8e/c1/12/8ec1121b2039c6e2a9b77af104818d54.png" group-title="Peliculas",Cine Latino
+http://172.18.18.2:25461/SQ/12345/305
 #EXTINF:-1 tvg-id="" tvg-name="RON DA ERROR" tvg-logo="https://i0.wp.com/cinemedios.com/wp-content/uploads/2021/09/poster-ron-da-error-1.jpg?ssl=1" group-title="PELICULAS",RON DA ERROR
 http://172.18.18.2:25461/movie/SQ/12345/454.mp4
