@@ -375,8 +375,6 @@ http://172.18.18.2:25461/SQ/12345/851
 http://172.18.18.2:25461/SQ/12345/852
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="" group-title="Entretenimiento",UNIVERSAL REALITY HD
 http://172.18.18.2:25461/SQ/12345/853
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Adultos",VENUS
-http://172.18.18.2:25461/SQ/12345/854
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="Entretenimiento",VH1 Classic
 http://172.18.18.2:25461/SQ/12345/855
 #EXTINF:-1 tvg-id="" tvg-name="VTV Canal 35 ESA" tvg-logo="" group-title="Entretenimiento",VTV Canal 35 ESA
@@ -391,5 +389,3 @@ http://172.18.18.2:25461/SQ/12345/859
 http://172.18.18.2:25461/SQ/12345/860
 #EXTINF:-1 tvg-id="" tvg-name="vtv" tvg-logo="" group-title="Entretenimiento",vtv
 http://172.18.18.2:25461/SQ/12345/861
-#EXTINF:-1 tvg-id="" tvg-name="RON DA ERROR" tvg-logo="https://i0.wp.com/cinemedios.com/wp-content/uploads/2021/09/poster-ron-da-error-1.jpg?ssl=1" group-title="PELICULAS",RON DA ERROR
-http://172.18.18.2:25461/movie/SQ/12345/454.mp4
