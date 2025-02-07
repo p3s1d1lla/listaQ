@@ -1,333 +1,693 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="11 - Repretel" tvg-logo="" group-title="TV",11 - Repretel
-http://172.18.18.2:25461/SQ/12345/196
-#EXTINF:-1 tvg-id="" tvg-name="4 Repretel" tvg-logo="" group-title="TV",4 Repretel
-http://172.18.18.2:25461/SQ/12345/197
-#EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="" group-title="TV",6 - Repretel
-http://172.18.18.2:25461/SQ/12345/198
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="TV",A&E
-http://172.18.18.2:25461/SQ/12345/199
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="TV",A&E HD
-http://172.18.18.2:25461/SQ/12345/200
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="TV",AMC HD
-http://172.18.18.2:25461/SQ/12345/201
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="TV",AXN HD
-http://172.18.18.2:25461/SQ/12345/202
-#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" tvg-logo="" group-title="TV",AZ click HD
-http://172.18.18.2:25461/SQ/12345/203
-#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="" group-title="TV",Adult Swim
-http://172.18.18.2:25461/SQ/12345/204
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="TV",Animal Planet HD
-http://172.18.18.2:25461/SQ/12345/205
-#EXTINF:-1 tvg-id="" tvg-name="Antena 7- RD" tvg-logo="" group-title="TV",Antena 7- RD
-http://172.18.18.2:25461/SQ/12345/206
-#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="TV",Azcorazon
-http://172.18.18.2:25461/SQ/12345/207
-#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="TV",Azmundo
-http://172.18.18.2:25461/SQ/12345/208
-#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="TV",BBC News
-http://172.18.18.2:25461/SQ/12345/209
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="TV",Baby First
-http://172.18.18.2:25461/SQ/12345/210
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 - NI" tvg-logo="" group-title="TV",CANAL 13 - NI
-http://172.18.18.2:25461/SQ/12345/211
-#EXTINF:-1 tvg-id="" tvg-name="CDN2- RD" tvg-logo="" group-title="TV",CDN2- RD
-http://172.18.18.2:25461/SQ/12345/212
-#EXTINF:-1 tvg-id="" tvg-name="CDN37 - RD" tvg-logo="" group-title="TV",CDN37 - RD
-http://172.18.18.2:25461/SQ/12345/213
-#EXTINF:-1 tvg-id="" tvg-name="CERTV" tvg-logo="" group-title="TV",CERTV
-http://172.18.18.2:25461/SQ/12345/214
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="TV",CINECANAL HD
-http://172.18.18.2:25461/SQ/12345/215
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="TV",CNBC
-http://172.18.18.2:25461/SQ/12345/216
-#EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-logo="" group-title="TV",CNNE
-http://172.18.18.2:25461/SQ/12345/217
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - GUA" tvg-logo="" group-title="TV",Canal 11 - GUA
-http://172.18.18.2:25461/SQ/12345/218
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - HON" tvg-logo="" group-title="TV",Canal 11 - HON
-http://172.18.18.2:25461/SQ/12345/219
-#EXTINF:-1 tvg-id="" tvg-name="Canal 12 - ESA" tvg-logo="" group-title="TV",Canal 12 - ESA
-http://172.18.18.2:25461/SQ/12345/220
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 - PAN" tvg-logo="" group-title="TV",Canal 13 - PAN
-http://172.18.18.2:25461/SQ/12345/221
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13-GUA" tvg-logo="" group-title="TV",Canal 13-GUA
-http://172.18.18.2:25461/SQ/12345/222
-#EXTINF:-1 tvg-id="" tvg-name="Canal 14 - NIC" tvg-logo="" group-title="TV",Canal 14 - NIC
-http://172.18.18.2:25461/SQ/12345/223
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19  ESA" tvg-logo="" group-title="TV",Canal 19  ESA
-http://172.18.18.2:25461/SQ/12345/224
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - ESA" tvg-logo="" group-title="TV",Canal 2 - ESA
-http://172.18.18.2:25461/SQ/12345/225
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - NIC" tvg-logo="" group-title="TV",Canal 2 - NIC
-http://172.18.18.2:25461/SQ/12345/226
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - PAN" tvg-logo="" group-title="TV",Canal 2 - PAN
-http://172.18.18.2:25461/SQ/12345/227
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 - GUA" tvg-logo="" group-title="TV",Canal 3 - GUA
-http://172.18.18.2:25461/SQ/12345/228
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Telesistemas HND" tvg-logo="" group-title="TV",Canal 3 Telesistemas HND
-http://172.18.18.2:25461/SQ/12345/229
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - ESA" tvg-logo="" group-title="TV",Canal 4 - ESA
-http://172.18.18.2:25461/SQ/12345/230
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - NIC" tvg-logo="" group-title="TV",Canal 4 - NIC
-http://172.18.18.2:25461/SQ/12345/231
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 - HON" tvg-logo="" group-title="TV",Canal 5 - HON
-http://172.18.18.2:25461/SQ/12345/232
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - ESA" tvg-logo="" group-title="TV",Canal 6 - ESA
-http://172.18.18.2:25461/SQ/12345/233
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - NI" tvg-logo="" group-title="TV",Canal 6 - NI
-http://172.18.18.2:25461/SQ/12345/234
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - GUA" tvg-logo="" group-title="TV",Canal 7 - GUA
-http://172.18.18.2:25461/SQ/12345/235
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 HD CR" tvg-logo="" group-title="TV",Canal 7 HD CR
-http://172.18.18.2:25461/SQ/12345/236
-#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua - GUA" tvg-logo="" group-title="TV",Canal Antigua - GUA
-http://172.18.18.2:25461/SQ/12345/237
-#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" tvg-logo="" group-title="TV",Canal Azteca - GUA
-http://172.18.18.2:25461/SQ/12345/238
-#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="TV",Canal Claro
-http://172.18.18.2:25461/SQ/12345/239
-#EXTINF:-1 tvg-id="" tvg-name="Canal VTV HND" tvg-logo="" group-title="TV",Canal VTV HND
-http://172.18.18.2:25461/SQ/12345/240
-#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="TV",Canal del Congreso
-http://172.18.18.2:25461/SQ/12345/241
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="TV",Cartoon Network
-http://172.18.18.2:25461/SQ/12345/242
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="TV",Cartoonito
-http://172.18.18.2:25461/SQ/12345/243
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="TV",Cine Latino
-http://172.18.18.2:25461/SQ/12345/244
-#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="TV",CineCanal
-http://172.18.18.2:25461/SQ/12345/245
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="TV",CineMax
-http://172.18.18.2:25461/SQ/12345/246
-#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="TV",Claro Cinema
-http://172.18.18.2:25461/SQ/12345/247
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 1 SD" tvg-logo="" group-title="TV",Claro Sports 1 SD
-http://172.18.18.2:25461/SQ/12345/248
-#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9 - RD" tvg-logo="" group-title="TV",Color Vision 9 - RD
-http://172.18.18.2:25461/SQ/12345/249
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="TV",Comedy Central HD
-http://172.18.18.2:25461/SQ/12345/250
-#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="TV",Concert Channel
-http://172.18.18.2:25461/SQ/12345/251
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" group-title="TV",DHE HD
-http://172.18.18.2:25461/SQ/12345/252
-#EXTINF:-1 tvg-id="" tvg-name="DISC THEATHER HD" tvg-logo="" group-title="TV",DISC THEATHER HD
-http://172.18.18.2:25461/SQ/12345/253
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC - HON" tvg-logo="" group-title="TV",Deportes TVC - HON
-http://172.18.18.2:25461/SQ/12345/254
-#EXTINF:-1 tvg-id="" tvg-name="Digital 15 - RD" tvg-logo="" group-title="TV",Digital 15 - RD
-http://172.18.18.2:25461/SQ/12345/255
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="TV",Discovery Channel
-http://172.18.18.2:25461/SQ/12345/256
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="TV",Discovery Channel HD
-http://172.18.18.2:25461/SQ/12345/257
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="TV",Discovery Home & Health
-http://172.18.18.2:25461/SQ/12345/258
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="TV",Discovery ID HD
-http://172.18.18.2:25461/SQ/12345/259
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="TV",Discovery Kids
-http://172.18.18.2:25461/SQ/12345/260
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="TV",Discovery Turbo
-http://172.18.18.2:25461/SQ/12345/261
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="TV",Discovery World HD
-http://172.18.18.2:25461/SQ/12345/262
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="TV",Disney
-http://172.18.18.2:25461/SQ/12345/263
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="TV",Disney JR
-http://172.18.18.2:25461/SQ/12345/264
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="TV",E!
-http://172.18.18.2:25461/SQ/12345/265
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" tvg-logo="" group-title="TV",E! Entertairment HD
-http://172.18.18.2:25461/SQ/12345/266
-#EXTINF:-1 tvg-id="" tvg-name="ELIM TV - ESA" tvg-logo="" group-title="TV",ELIM TV - ESA
-http://172.18.18.2:25461/SQ/12345/267
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="" group-title="TV",ESPN  +
-http://172.18.18.2:25461/SQ/12345/268
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="TV",ESPN 2 HD
-http://172.18.18.2:25461/SQ/12345/269
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="TV",ESPN 3 HD
-http://172.18.18.2:25461/SQ/12345/270
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4  HD" tvg-logo="" group-title="TV",ESPN 4  HD
-http://172.18.18.2:25461/SQ/12345/271
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="" group-title="TV",ESPN Extra
-http://172.18.18.2:25461/SQ/12345/272
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="TV",ESPN HD
-http://172.18.18.2:25461/SQ/12345/273
-#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="TV",EURO Channel
-http://172.18.18.2:25461/SQ/12345/274
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="TV",EWTN
-http://172.18.18.2:25461/SQ/12345/275
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="TV",El Gourmet
-http://172.18.18.2:25461/SQ/12345/276
-#EXTINF:-1 tvg-id="" tvg-name="Europa HD" tvg-logo="" group-title="TV",Europa HD
-http://172.18.18.2:25461/SQ/12345/277
-#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="" group-title="TV",Exa TV
-http://172.18.18.2:25461/SQ/12345/278
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="" group-title="TV",FOX SPORTS 3 HD
-http://172.18.18.2:25461/SQ/12345/279
-#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="" group-title="TV",FUTV HD CR
-http://172.18.18.2:25461/SQ/12345/280
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="TV",FX HD
-http://172.18.18.2:25461/SQ/12345/281
-#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" tvg-logo="" group-title="TV",Film & arts HD
-http://172.18.18.2:25461/SQ/12345/282
-#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="" group-title="TV",France24
-http://172.18.18.2:25461/SQ/12345/283
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="TV",Golden
-http://172.18.18.2:25461/SQ/12345/284
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="" group-title="TV",Golf Channel HD
-http://172.18.18.2:25461/SQ/12345/285
-#EXTINF:-1 tvg-id="" tvg-name="Guatevision - GUA" tvg-logo="" group-title="TV",Guatevision - GUA
-http://172.18.18.2:25461/SQ/12345/286
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="TV",H2
-http://172.18.18.2:25461/SQ/12345/287
-#EXTINF:-1 tvg-id="" tvg-name="HCH- HON" tvg-logo="" group-title="TV",HCH- HON
-http://172.18.18.2:25461/SQ/12345/288
-#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" tvg-logo="" group-title="TV",HOLA! TV HD
-http://172.18.18.2:25461/SQ/12345/289
-#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="TV",HTV
-http://172.18.18.2:25461/SQ/12345/290
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="TV",History HD
-http://172.18.18.2:25461/SQ/12345/291
-#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" group-title="TV",Home & Health HD
-http://172.18.18.2:25461/SQ/12345/292
-#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="" group-title="TV",ISAT
-http://172.18.18.2:25461/SQ/12345/293
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="TV",LIFE TIME
-http://172.18.18.2:25461/SQ/12345/294
-#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="" group-title="TV",La voz de Maria
-http://172.18.18.2:25461/SQ/12345/295
-#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" tvg-logo="" group-title="TV",Latin America Sport
-http://172.18.18.2:25461/SQ/12345/296
-#EXTINF:-1 tvg-id="" tvg-name="MASTV - PAN" tvg-logo="" group-title="TV",MASTV - PAN
-http://172.18.18.2:25461/SQ/12345/297
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="" group-title="TV",MTV 00s HD
-http://172.18.18.2:25461/SQ/12345/298
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="" group-title="TV",MTV 80s
-http://172.18.18.2:25461/SQ/12345/299
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="TV",MTV HD
-http://172.18.18.2:25461/SQ/12345/300
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="TV",MTV Hits
-http://172.18.18.2:25461/SQ/12345/301
-#EXTINF:-1 tvg-id="" tvg-name="MTV SIM HD" tvg-logo="" group-title="TV",MTV SIM HD
-http://172.18.18.2:25461/SQ/12345/302
-#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="TV",Multicinema
-http://172.18.18.2:25461/SQ/12345/303
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="TV",Multipremier
-http://172.18.18.2:25461/SQ/12345/304
-#EXTINF:-1 tvg-id="" tvg-name="NEXT - PAN" tvg-logo="" group-title="TV",NEXT - PAN
-http://172.18.18.2:25461/SQ/12345/305
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="" group-title="TV",Nat Geo HD
-http://172.18.18.2:25461/SQ/12345/306
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="TV",National Geographic
-http://172.18.18.2:25461/SQ/12345/307
-#EXTINF:-1 tvg-id="" tvg-name="Nicarao TV" tvg-logo="" group-title="TV",Nicarao TV
-http://172.18.18.2:25461/SQ/12345/308
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="TV",Nick Jr
-http://172.18.18.2:25461/SQ/12345/309
-#EXTINF:-1 tvg-id="" tvg-name="Nick SIM HD" tvg-logo="" group-title="TV",Nick SIM HD
-http://172.18.18.2:25461/SQ/12345/310
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="TV",Nickelodeon
-http://172.18.18.2:25461/SQ/12345/311
-#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="TV",PXTV
-http://172.18.18.2:25461/SQ/12345/312
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="TV",Paramount HD
-http://172.18.18.2:25461/SQ/12345/313
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" group-title="TV",Pasiones HD
-http://172.18.18.2:25461/SQ/12345/314
-#EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="TV",RCN - GUA
-http://172.18.18.2:25461/SQ/12345/315
-#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="" group-title="TV",RCN Novelas
-http://172.18.18.2:25461/SQ/12345/316
-#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="" group-title="TV",RHEMA TV
-http://172.18.18.2:25461/SQ/12345/317
-#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="" group-title="TV",SEMILLITAS
-http://172.18.18.2:25461/SQ/12345/318
-#EXTINF:-1 tvg-id="" tvg-name="SERTV - PAN" tvg-logo="" group-title="TV",SERTV - PAN
-http://172.18.18.2:25461/SQ/12345/319
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="TV",SONY HD
-http://172.18.18.2:25461/SQ/12345/320
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="TV",SPACE HD
-http://172.18.18.2:25461/SQ/12345/321
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="TV",STAR CHANNEL HD
-http://172.18.18.2:25461/SQ/12345/322
-#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" tvg-logo="" group-title="TV",SUYAPA TV
-http://172.18.18.2:25461/SQ/12345/323
-#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="" group-title="TV",Sembrador
-http://172.18.18.2:25461/SQ/12345/324
-#EXTINF:-1 tvg-id="" tvg-name="Sin Limites" tvg-logo="" group-title="TV",Sin Limites
-http://172.18.18.2:25461/SQ/12345/325
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="" group-title="TV",Sony Movies HD
-http://172.18.18.2:25461/SQ/12345/326
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="TV",Star TVE HD
-http://172.18.18.2:25461/SQ/12345/327
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="TV",Studio Universal HD
-http://172.18.18.2:25461/SQ/12345/328
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="TV",Sun Channel
-http://172.18.18.2:25461/SQ/12345/329
-#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="" group-title="TV",TBN Enlace
-http://172.18.18.2:25461/SQ/12345/330
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="TV",TCM
-http://172.18.18.2:25461/SQ/12345/331
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="TV",TLC
-http://172.18.18.2:25461/SQ/12345/332
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="TV",TNT HD
-http://172.18.18.2:25461/SQ/12345/333
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="" group-title="TV",TNT Novelas
-http://172.18.18.2:25461/SQ/12345/334
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="TV",TNT Series HD
-http://172.18.18.2:25461/SQ/12345/335
-#EXTINF:-1 tvg-id="" tvg-name="TV  Max - PAN" tvg-logo="" group-title="TV",TV  Max - PAN
-http://172.18.18.2:25461/SQ/12345/336
-#EXTINF:-1 tvg-id="" tvg-name="TV Oriente ESA" tvg-logo="" group-title="TV",TV Oriente ESA
-http://172.18.18.2:25461/SQ/12345/337
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="TV",TVE
-http://172.18.18.2:25461/SQ/12345/338
-#EXTINF:-1 tvg-id="" tvg-name="TVM25 -  ESA" tvg-logo="" group-title="TV",TVM25 -  ESA
-http://172.18.18.2:25461/SQ/12345/339
-#EXTINF:-1 tvg-id="" tvg-name="Teen Nick HD" tvg-logo="" group-title="TV",Teen Nick HD
-http://172.18.18.2:25461/SQ/12345/340
-#EXTINF:-1 tvg-id="" tvg-name="Tele Antillas - RD" tvg-logo="" group-title="TV",Tele Antillas - RD
-http://172.18.18.2:25461/SQ/12345/341
-#EXTINF:-1 tvg-id="" tvg-name="TeleMicro - RD" tvg-logo="" group-title="TV",TeleMicro - RD
-http://172.18.18.2:25461/SQ/12345/342
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro - RD" tvg-logo="" group-title="TV",Telecentro - RD
-http://172.18.18.2:25461/SQ/12345/343
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="TV",Telemundo HD
-http://172.18.18.2:25461/SQ/12345/344
-#EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="" group-title="TV",Telesistema RD
-http://172.18.18.2:25461/SQ/12345/345
-#EXTINF:-1 tvg-id="" tvg-name="Teleunion - RD" tvg-logo="" group-title="TV",Teleunion - RD
-http://172.18.18.2:25461/SQ/12345/346
-#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="" group-title="TV",Teleuniverso - RD
-http://172.18.18.2:25461/SQ/12345/347
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="TV",Tooncast
-http://172.18.18.2:25461/SQ/12345/349
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" tvg-logo="" group-title="TV",UNIVERSAL CINEMA ESTE HD
-http://172.18.18.2:25461/SQ/12345/350
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="" group-title="TV",UNIVERSAL COMEDY HD
-http://172.18.18.2:25461/SQ/12345/351
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" tvg-logo="" group-title="TV",UNIVERSAL CRIME HD
-http://172.18.18.2:25461/SQ/12345/352
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="" group-title="TV",UNIVERSAL PREMIERE HD
-http://172.18.18.2:25461/SQ/12345/353
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" tvg-logo="" group-title="TV",UNIVERSAL PREMIERE O HD
-http://172.18.18.2:25461/SQ/12345/354
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="" group-title="TV",UNIVERSAL REALITY HD
-http://172.18.18.2:25461/SQ/12345/355
-#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" group-title="TV",USA
-http://172.18.18.2:25461/SQ/12345/356
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="TV",Universal
-http://172.18.18.2:25461/SQ/12345/357
-#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="" group-title="TV",Univision HD
-http://172.18.18.2:25461/SQ/12345/358
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="TV",VENUS
-http://172.18.18.2:25461/SQ/12345/359
-#EXTINF:-1 tvg-id="" tvg-name="VTV Canal 35 ESA" tvg-logo="" group-title="TV",VTV Canal 35 ESA
-http://172.18.18.2:25461/SQ/12345/360
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="TV",WARNER HD
-http://172.18.18.2:25461/SQ/12345/361
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="TV",Warner
-http://172.18.18.2:25461/SQ/12345/362
+
+#EXTINF:-1,002 VTV
+
+http://172.18.18.38:80/live/david/12345/4.m3u8
+
+#EXTINF:-1,004 Telecadena
+
+http://172.18.18.38:80/live/david/12345/5.m3u8
+
+#EXTINF:-1,005 Canal5
+
+http://172.18.18.38:80/live/david/12345/6.m3u8
+
+#EXTINF:-1,006 Canal6
+
+http://172.18.18.38:80/live/david/12345/7.m3u8
+
+#EXTINF:-1,007 TSI
+
+http://172.18.18.38:80/live/david/12345/8.m3u8
+
+#EXTINF:-1,008  TNH Canal 8
+
+http://172.18.18.38:80/live/david/12345/9.m3u8
+
+#EXTINF:-1,009 Q HUBO TV
+
+http://172.18.18.38:80/live/david/12345/10.m3u8
+
+#EXTINF:-1,010 TEN
+
+http://172.18.18.38:80/live/david/12345/11.m3u8
+
+#EXTINF:-1,011 Canal 11
+
+http://172.18.18.38:80/live/david/12345/12.m3u8
+
+#EXTINF:-1,014 CHH
+
+http://172.18.18.38:80/live/david/12345/13.m3u8
+
+#EXTINF:-1,017 Tooncast
+
+http://172.18.18.38:80/live/david/12345/14.m3u8
+
+#EXTINF:-1,018 Cartoon Network HD
+
+http://172.18.18.38:80/live/david/12345/15.m3u8
+
+#EXTINF:-1,019 Baby TV
+
+http://172.18.18.38:80/live/david/12345/16.m3u8
+
+#EXTINF:-1,020 Discovery Kids
+
+http://172.18.18.38:80/live/david/12345/17.m3u8
+
+#EXTINF:-1,021 Disney Channel
+
+http://172.18.18.38:80/live/david/12345/18.m3u8
+
+#EXTINF:-1,022 Disney Junior
+
+http://172.18.18.38:80/live/david/12345/19.m3u8
+
+#EXTINF:-1,023 Telenovelas
+
+http://172.18.18.38:80/live/david/12345/20.m3u8
+
+#EXTINF:-1,024 Canal de Las Estrellas
+
+http://172.18.18.38:80/live/david/12345/21.m3u8
+
+#EXTINF:-1,026 Azteca Uno
+
+http://172.18.18.38:80/live/david/12345/22.m3u8
+
+#EXTINF:-1,031 CNN Internacional
+
+http://172.18.18.38:80/live/david/12345/23.m3u8
+
+#EXTINF:-1,102 CCJ TV HD
+
+http://172.18.18.38:80/live/david/12345/24.m3u8
+
+#EXTINF:-1,104 Tooncast
+
+http://172.18.18.38:80/live/david/12345/25.m3u8
+
+#EXTINF:-1,105 Multipremier
+
+http://172.18.18.38:80/live/david/12345/26.m3u8
+
+#EXTINF:-1,106 Semillitas
+
+http://172.18.18.38:80/live/david/12345/27.m3u8
+
+#EXTINF:-1,107 Cine Infantil HD
+
+http://172.18.18.38:80/live/david/12345/28.m3u8
+
+#EXTINF:-1,108 Nick Jr
+
+http://172.18.18.38:80/live/david/12345/29.m3u8
+
+#EXTINF:-1,11 Canal del Congreso HDN
+
+http://172.18.18.38:80/live/david/12345/30.m3u8
+
+#EXTINF:-1,110 MTV Live HD
+
+http://172.18.18.38:80/live/david/12345/31.m3u8
+
+#EXTINF:-1,111 Concert Channel
+
+http://172.18.18.38:80/live/david/12345/32.m3u8
+
+#EXTINF:-1,112 Cine Platino 2
+
+http://172.18.18.38:80/live/david/12345/33.m3u8
+
+#EXTINF:-1,113 MTV 80s
+
+http://172.18.18.38:80/live/david/12345/34.m3u8
+
+#EXTINF:-1,114 MTV 00s
+
+http://172.18.18.38:80/live/david/12345/35.m3u8
+
+#EXTINF:-1,115 NDTV | Notidiario HN
+
+http://172.18.18.38:80/live/david/12345/36.m3u8
+
+#EXTINF:-1,116 HTV Latino
+
+http://172.18.18.38:80/live/david/12345/37.m3u8
+
+#EXTINF:-1,117 RT Noticias
+
+http://172.18.18.38:80/live/david/12345/38.m3u8
+
+#EXTINF:-1,12 Canal Vida TV HD
+
+http://172.18.18.38:80/live/david/12345/39.m3u8
+
+#EXTINF:-1,120 SBN Global
+
+http://172.18.18.38:80/live/david/12345/40.m3u8
+
+#EXTINF:-1,123 Dios Te Ve Kids
+
+http://172.18.18.38:80/live/david/12345/41.m3u8
+
+#EXTINF:-1,124 Teletica
+
+http://172.18.18.38:80/live/david/12345/42.m3u8
+
+#EXTINF:-1,126 Dios Te Ve
+
+http://172.18.18.38:80/live/david/12345/43.m3u8
+
+#EXTINF:-1,127 Guatevision
+
+http://172.18.18.38:80/live/david/12345/44.m3u8
+
+#EXTINF:-1,128 MiMúsicaRegueetonHD
+
+http://172.18.18.38:80/live/david/12345/45.m3u8
+
+#EXTINF:-1,129 MiMusica Popular HD
+
+http://172.18.18.38:80/live/david/12345/46.m3u8
+
+#EXTINF:-1,13 MegaClasicos HD
+
+http://172.18.18.38:80/live/david/12345/47.m3u8
+
+#EXTINF:-1,130 De Peliculas
+
+http://172.18.18.38:80/live/david/12345/48.m3u8
+
+#EXTINF:-1,133 Atres Series
+
+http://172.18.18.38:80/live/david/12345/49.m3u8
+
+#EXTINF:-1,136 Mi.Música.HD.Romántic
+
+http://172.18.18.38:80/live/david/12345/50.m3u8
+
+#EXTINF:-1,137 Azteca Guate HD
+
+http://172.18.18.38:80/live/david/12345/51.m3u8
+
+#EXTINF:-1,138 Cine Mexicano
+
+http://172.18.18.38:80/live/david/12345/52.m3u8
+
+#EXTINF:-1,139 NBA
+
+http://172.18.18.38:80/live/david/12345/53.m3u8
+
+#EXTINF:-1,14 Go TV HD
+
+http://172.18.18.38:80/live/david/12345/54.m3u8
+
+#EXTINF:-1,141 Mi Música HD Regional
+
+http://172.18.18.38:80/live/david/12345/55.m3u8
+
+#EXTINF:-1,142 Kanal D Drama
+
+http://172.18.18.38:80/live/david/12345/56.m3u8
+
+#EXTINF:-1,143 TVC DEP 2 HD
+
+http://172.18.18.38:80/live/david/12345/57.m3u8
+
+#EXTINF:-1,144 TVC Deportes HD
+
+http://172.18.18.38:80/live/david/12345/58.m3u8
+
+#EXTINF:-1,145 Real Madrid HD
+
+http://172.18.18.38:80/live/david/12345/59.m3u8
+
+#EXTINF:-1,147 Fox Sport 3 HD
+
+http://172.18.18.38:80/live/david/12345/60.m3u8
+
+#EXTINF:-1,148 EJTV
+
+http://172.18.18.38:80/live/david/12345/61.m3u8
+
+#EXTINF:-1,149 A Mas +
+
+http://172.18.18.38:80/live/david/12345/62.m3u8
+
+#EXTINF:-1,15 TVP Pacifico MX
+
+http://172.18.18.38:80/live/david/12345/63.m3u8
+
+#EXTINF:-1,150 Fox Sport Premium HD
+
+http://172.18.18.38:80/live/david/12345/64.m3u8
+
+#EXTINF:-1,155 BBC News
+
+http://172.18.18.38:80/live/david/12345/65.m3u8
+
+#EXTINF:-1,156 Cine Premium HD
+
+http://172.18.18.38:80/live/david/12345/66.m3u8
+
+#EXTINF:-1,157 Deportes TVC HN HD
+
+http://172.18.18.38:80/live/david/12345/67.m3u8
+
+#EXTINF:-1,160 Hola TV HD
+
+http://172.18.18.38:80/live/david/12345/68.m3u8
+
+#EXTINF:-1,162 Play Movie HD
+
+http://172.18.18.38:80/live/david/12345/69.m3u8
+
+#EXTINF:-1,164 Telehit Musica HD
+
+http://172.18.18.38:80/live/david/12345/70.m3u8
+
+#EXTINF:-1,17 AZ Mundo
+
+http://172.18.18.38:80/live/david/12345/71.m3u8
+
+#EXTINF:-1,19 E! Entertainment HD
+
+http://172.18.18.38:80/live/david/12345/72.m3u8
+
+#EXTINF:-1,20 Hogar TV HD
+
+http://172.18.18.38:80/live/david/12345/73.m3u8
+
+#EXTINF:-1,22 AZ Click
+
+http://172.18.18.38:80/live/david/12345/74.m3u8
+
+#EXTINF:-1,27 Campus TV
+
+http://172.18.18.38:80/live/david/12345/75.m3u8
+
+#EXTINF:-1,28 Telemundo Internacional
+
+http://172.18.18.38:80/live/david/12345/76.m3u8
+
+#EXTINF:-1,29 Pasiones HD
+
+http://172.18.18.38:80/live/david/12345/77.m3u8
+
+#EXTINF:-1,29 Porvenir TV HD
+
+http://172.18.18.38:80/live/david/12345/78.m3u8
+
+#EXTINF:-1,31 Golf Channel HD
+
+http://172.18.18.38:80/live/david/12345/79.m3u8
+
+#EXTINF:-1,32 Antena 3 HD
+
+http://172.18.18.38:80/live/david/12345/80.m3u8
+
+#EXTINF:-1,32 ESPN 5 HD
+
+http://172.18.18.38:80/live/david/12345/81.m3u8
+
+#EXTINF:-1,33 RCN Novelas
+
+http://172.18.18.38:80/live/david/12345/82.m3u8
+
+#EXTINF:-1,34 Univision HD
+
+http://172.18.18.38:80/live/david/12345/83.m3u8
+
+#EXTINF:-1,35 Fox Sport HD
+
+http://172.18.18.38:80/live/david/12345/84.m3u8
+
+#EXTINF:-1,35 TyC Sport HD
+
+http://172.18.18.38:80/live/david/12345/85.m3u8
+
+#EXTINF:-1,36 ESPN 3 HD
+
+http://172.18.18.38:80/live/david/12345/86.m3u8
+
+#EXTINF:-1,36 Fox Sport 2 HD
+
+http://172.18.18.38:80/live/david/12345/87.m3u8
+
+#EXTINF:-1,37 ESPN 4 HD
+
+http://172.18.18.38:80/live/david/12345/88.m3u8
+
+#EXTINF:-1,38 ESPN Sur HD
+
+http://172.18.18.38:80/live/david/12345/89.m3u8
+
+#EXTINF:-1,39 ESPN HD
+
+http://172.18.18.38:80/live/david/12345/90.m3u8
+
+#EXTINF:-1,39 ESPN Sur 2 HD
+
+http://172.18.18.38:80/live/david/12345/91.m3u8
+
+#EXTINF:-1,4 TelePais HD
+
+http://172.18.18.38:80/live/david/12345/92.m3u8
+
+#EXTINF:-1,40 ESPN 2 HD
+
+http://172.18.18.38:80/live/david/12345/93.m3u8
+
+#EXTINF:-1,40 ESPN Sur 3 HD
+
+http://172.18.18.38:80/live/david/12345/94.m3u8
+
+#EXTINF:-1,41 ESPN 6 HD
+
+http://172.18.18.38:80/live/david/12345/95.m3u8
+
+#EXTINF:-1,41 TUDN HD
+
+http://172.18.18.38:80/live/david/12345/96.m3u8
+
+#EXTINF:-1,42 Animal Planet HD
+
+http://172.18.18.38:80/live/david/12345/97.m3u8
+
+#EXTINF:-1,42 Latin American Sport
+
+http://172.18.18.38:80/live/david/12345/98.m3u8
+
+#EXTINF:-1,43 Nat Geo HD
+
+http://172.18.18.38:80/live/david/12345/99.m3u8
+
+#EXTINF:-1,43 Rumba TV HD
+
+http://172.18.18.38:80/live/david/12345/100.m3u8
+
+#EXTINF:-1,44 A&E HD
+
+http://172.18.18.38:80/live/david/12345/101.m3u8
+
+#EXTINF:-1,44 Discovery Channel HD
+
+http://172.18.18.38:80/live/david/12345/102.m3u8
+
+#EXTINF:-1,45 Cine Latino
+
+http://172.18.18.38:80/live/david/12345/103.m3u8
+
+#EXTINF:-1,45 History HD
+
+http://172.18.18.38:80/live/david/12345/104.m3u8
+
+#EXTINF:-1,46 Cinemax HD
+
+http://172.18.18.38:80/live/david/12345/105.m3u8
+
+#EXTINF:-1,47 DHE HD
+
+http://172.18.18.38:80/live/david/12345/106.m3u8
+
+#EXTINF:-1,47 Discovery Turbo HD
+
+http://172.18.18.38:80/live/david/12345/107.m3u8
+
+#EXTINF:-1,48 TLC
+
+http://172.18.18.38:80/live/david/12345/108.m3u8
+
+#EXTINF:-1,48 Universal Cinema HD
+
+http://172.18.18.38:80/live/david/12345/109.m3u8
+
+#EXTINF:-1,49 Discovery Home & Health HD
+
+http://172.18.18.38:80/live/david/12345/110.m3u8
+
+#EXTINF:-1,49 Universal Reality HD
+
+http://172.18.18.38:80/live/david/12345/111.m3u8
+
+#EXTINF:-1,50 TV Agro HD
+
+http://172.18.18.38:80/live/david/12345/112.m3u8
+
+#EXTINF:-1,50 Universal Comedy HD
+
+http://172.18.18.38:80/live/david/12345/113.m3u8
+
+#EXTINF:-1,51 Universal Crime HD
+
+http://172.18.18.38:80/live/david/12345/114.m3u8
+
+#EXTINF:-1,52 Universal Premiere HD
+
+http://172.18.18.38:80/live/david/12345/115.m3u8
+
+#EXTINF:-1,53 MTV HD
+
+http://172.18.18.38:80/live/david/12345/116.m3u8
+
+#EXTINF:-1,53 Telehit HD
+
+http://172.18.18.38:80/live/david/12345/117.m3u8
+
+#EXTINF:-1,53 Universal Premiere 1 HD
+
+http://172.18.18.38:80/live/david/12345/118.m3u8
+
+#EXTINF:-1,54 Banda Max HD
+
+http://172.18.18.38:80/live/david/12345/119.m3u8
+
+#EXTINF:-1,54 Studio Universal HD
+
+http://172.18.18.38:80/live/david/12345/120.m3u8
+
+#EXTINF:-1,55 HBO HD
+
+http://172.18.18.38:80/live/david/12345/121.m3u8
+
+#EXTINF:-1,56 HBO 2 HD
+
+http://172.18.18.38:80/live/david/12345/122.m3u8
+
+#EXTINF:-1,58 Comedia Central HD
+
+http://172.18.18.38:80/live/david/12345/123.m3u8
+
+#EXTINF:-1,59 Distrito Comedia HD
+
+http://172.18.18.38:80/live/david/12345/124.m3u8
+
+#EXTINF:-1,60 TV Chile HD
+
+http://172.18.18.38:80/live/david/12345/125.m3u8
+
+#EXTINF:-1,61 AXN HD
+
+http://172.18.18.38:80/live/david/12345/126.m3u8
+
+#EXTINF:-1,61 HBO Family HD
+
+http://172.18.18.38:80/live/david/12345/127.m3u8
+
+#EXTINF:-1,62 Sony HD
+
+http://172.18.18.38:80/live/david/12345/128.m3u8
+
+#EXTINF:-1,62 Sony Movies HD
+
+http://172.18.18.38:80/live/david/12345/129.m3u8
+
+#EXTINF:-1,64 AMC HD
+
+http://172.18.18.38:80/live/david/12345/130.m3u8
+
+#EXTINF:-1,67 Telemicro HD
+
+http://172.18.18.38:80/live/david/12345/131.m3u8
+
+#EXTINF:-1,68 Star Channel HD
+
+http://172.18.18.38:80/live/david/12345/132.m3u8
+
+#EXTINF:-1,69 Paramount HD
+
+http://172.18.18.38:80/live/david/12345/133.m3u8
+
+#EXTINF:-1,70 Space HD
+
+http://172.18.18.38:80/live/david/12345/134.m3u8
+
+#EXTINF:-1,73 TNT Novelas
+
+http://172.18.18.38:80/live/david/12345/135.m3u8
+
+#EXTINF:-1,74 INTI HD
+
+http://172.18.18.38:80/live/david/12345/136.m3u8
+
+#EXTINF:-1,75 Warnet HD
+
+http://172.18.18.38:80/live/david/12345/137.m3u8
+
+#EXTINF:-1,76 Cine Canal HD
+
+http://172.18.18.38:80/live/david/12345/138.m3u8
+
+#EXTINF:-1,77 TCM
+
+http://172.18.18.38:80/live/david/12345/139.m3u8
+
+#EXTINF:-1,78 Golden Premier HD
+
+http://172.18.18.38:80/live/david/12345/140.m3u8
+
+#EXTINF:-1,79 HBO Pop HD
+
+http://172.18.18.38:80/live/david/12345/141.m3u8
+
+#EXTINF:-1,79 Universal
+
+http://172.18.18.38:80/live/david/12345/142.m3u8
+
+#EXTINF:-1,8 Tele Nostalgia HD
+
+http://172.18.18.38:80/live/david/12345/143.m3u8
+
+#EXTINF:-1,80  FX HD
+
+http://172.18.18.38:80/live/david/12345/144.m3u8
+
+#EXTINF:-1,81 Adult Swim
+
+http://172.18.18.38:80/live/david/12345/145.m3u8
+
+#EXTINF:-1,81 TNT HD
+
+http://172.18.18.38:80/live/david/12345/146.m3u8
+
+#EXTINF:-1,84 History 2
+
+http://172.18.18.38:80/live/david/12345/147.m3u8
+
+#EXTINF:-1,84 Panico HD
+
+http://172.18.18.38:80/live/david/12345/148.m3u8
+
+#EXTINF:-1,85 Enlace
+
+http://172.18.18.38:80/live/david/12345/149.m3u8
+
+#EXTINF:-1,86 Discovery ID HD
+
+http://172.18.18.38:80/live/david/12345/150.m3u8
+
+#EXTINF:-1,87 Suyapa TV
+
+http://172.18.18.38:80/live/david/12345/151.m3u8
+
+#EXTINF:-1,88 3ABN
+
+http://172.18.18.38:80/live/david/12345/152.m3u8
+
+#EXTINF:-1,88 Discovery World HD
+
+http://172.18.18.38:80/live/david/12345/153.m3u8
+
+#EXTINF:-1,89 Discovery Theater HD
+
+http://172.18.18.38:80/live/david/12345/154.m3u8
+
+#EXTINF:-1,89 JBN
+
+http://172.18.18.38:80/live/david/12345/155.m3u8
+
+#EXTINF:-1,91 HGTV
+
+http://172.18.18.38:80/live/david/12345/156.m3u8
+
+#EXTINF:-1,92 Discovery Science
+
+http://172.18.18.38:80/live/david/12345/157.m3u8
+
+#EXTINF:-1,94 ZooMoo
+
+http://172.18.18.38:80/live/david/12345/158.m3u8
+
+#EXTINF:-1,96 UNE TV
+
+http://172.18.18.38:80/live/david/12345/159.m3u8
+
+#EXTINF:-1,97 Teen Nick HD
+
+http://172.18.18.38:80/live/david/12345/160.m3u8
+
+#EXTINF:-1,98 Cartooncito
+
+http://172.18.18.38:80/live/david/12345/161.m3u8
+
+#EXTINF:-1,99 HBO Xtreme HD
+
+http://172.18.18.38:80/live/david/12345/162.m3u8
+
+#EXTINF:-1,99 Nickelodeon
+
+http://172.18.18.38:80/live/david/12345/163.m3u8
+
+#EXTINF:-1,AZ	Mundo
+
+http://172.18.18.38:80/live/david/12345/164.m3u8
+
+#EXTINF:-1,Canal Vida TV
+
+http://172.18.18.38:80/live/david/12345/165.m3u8
+
+#EXTINF:-1,Canal del Congreso
+
+http://172.18.18.38:80/live/david/12345/166.m3u8
+
+#EXTINF:-1,E! Entertainment
+
+http://172.18.18.38:80/live/david/12345/167.m3u8
+
+#EXTINF:-1,GO TV
+
+http://172.18.18.38:80/live/david/12345/168.m3u8
+
+#EXTINF:-1,Hogar TV
+
+http://172.18.18.38:80/live/david/12345/169.m3u8
+
+#EXTINF:-1,JVN
+
+http://172.18.18.38:80/live/david/12345/170.m3u8
+
+#EXTINF:-1,MegaClasicos
+
+http://172.18.18.38:80/live/david/12345/171.m3u8
+
+#EXTINF:-1,TVP	Pacifico
+
+http://172.18.18.38:80/live/david/12345/172.m3u8
+
+#EXTINF:-1,Tele	Nostalgia
+
+http://172.18.18.38:80/live/david/12345/173.m3u8
+
+#EXTINF:-1,TelePais
+
+http://172.18.18.38:80/live/david/12345/174.m3u8
+
+#EXTINF:-1,pre
+
+http://172.18.18.38:80/live/david/12345/175.m3u8
+
+#EXTINF:-1,pre b
+
+http://172.18.18.38:80/live/david/12345/177.m3u8
